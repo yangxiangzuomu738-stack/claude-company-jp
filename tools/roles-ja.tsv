@@ -1,0 +1,284 @@
+name	ja
+Anthropologist	文化人類学（文化・儀礼・親族の設定に厚み）
+Geographer	地理学（地形・気候・集落の整合）
+Historian	歴史学（時代考証）
+Narratologist	物語論（話の構成・人物の成長）
+Psychologist	心理学（性格・動機の裏付け）
+Statistician	統計（研究設計・検定・偏りの見抜き）
+Brand Guardian	ブランドの一貫性と位置づけ
+Image Prompt Engineer	画像生成のプロンプト（写真表現）
+Inclusive Visuals Specialist	偏りのない人物・場面の画像
+Persona Walkthrough Specialist	利用者の立場で画面を読み流して反応を記録
+UI Designer	画面・部品・デザインシステム
+UI Finish-Gate Reviewer	ありきたりな画面を出荷前に止める仕上げの見直し
+UX Architect	CSS の土台と実装の方針
+UX Researcher	使いやすさの調査とテスト
+Visual Storyteller	図解・ビジュアルでの伝え方
+Whimsy Injector	動きや遊び心で印象を残す
+AI Data Remediation Engineer	壊れたデータを自動で見つけて直す仕組み
+AI Engineer	機械学習機能の開発と組み込み
+API Platform Engineer	公開 API の設計・版管理・利用制限
+ATS Validator Architect	履歴書の読み取りやすさの検証
+Autonomous Optimization Architect	AI API の費用と性能の自動最適化
+Backend Architect	サーバー側の設計と API
+China Network Engineer	中国製ネットワーク機器の設計（中国向け）
+CMS Developer	WordPress・Drupal の開発
+Code Reviewer	コードレビュー（正しさ・保守性・安全性）
+Codebase Onboarding Engineer	知らないコードを読んで構造を説明
+Data Engineer	データの取り込みと整形の流れづくり
+Data Visualization Engineer	グラフの種類選びと見やすい描画
+Database Optimizer	テーブル設計とクエリの高速化
+Database Reliability Engineer	データベースの冗長化・バックアップ・復旧
+Desktop App Engineer	デスクトップアプリ（Electron・Tauri）
+Developer Tooling Engineer	コマンドラインツールと開発環境
+DevOps Automator	CI/CD とインフラの自動化
+Drupal Performance Engineer	Drupal の高速化
+Drupal Shopping Cart Engineer	Drupal の EC サイト
+Electrical Engineer	電源設備・配線・接地の設計と確認
+Email Intelligence Engineer	メールのやり取りから構造化データを取り出す
+Embedded Firmware Engineer	マイコンのファームウェア（ESP32・STM32 など）
+Feishu Integration Developer	Feishu（Lark）連携（中国向け）
+Filament Optimization Specialist	Filament（PHP 管理画面）の整理
+FinOps Engineer	クラウド費用の配分と削減
+Frontend Developer	画面の実装（React・Vue など）と表示速度
+GaussDB Expert Engineer	Huawei GaussDB（中国向け）
+Git Workflow Master	Git の運用・ブランチ設計・履歴整理
+Internationalization Engineer	多言語対応（翻訳しやすい作り・日付や通貨の書式）
+Identity & Access Engineer	ログイン・SSO・権限の設計
+Incident Response Commander	本番障害の指揮と振り返り
+IoT Fleet Engineer	多数の IoT 機器の登録・遠隔更新
+IT Service Manager	ITIL に沿った社内 IT の運用
+Knowledge Graph Engineer	情報を関係図（ナレッジグラフ）に整理
+LLM Post-Training Engineer	LLM の追加学習と公開判定
+Minimal Change Engineer	頼まれたことだけを最小の変更で直す
+Mobile App Builder	スマホアプリ（iOS・Android）
+Mobile Release Engineer	アプリの署名・ストア申請・段階公開
+Multi-Agent Systems Architect	複数エージェントの連携設計
+Network Engineer	ルーター・ファイアウォールの設定（Cisco など）
+OrgScript Engineer	OrgScript（業務ルール記述言語）
+Payments & Billing Engineer	Stripe などの決済と月額課金
+PDF Engine Architect	HTML から PDF を正確に作る仕組み
+Platform Engineer	社内開発基盤（決まった作り方の整備）
+Privacy Engineer	個人情報の洗い出し・最小化・削除をコードで実装
+Prompt Engineer	AI への指示文の設計と改善
+RAG Pipeline Engineer	資料検索つき AI（RAG）の検索精度
+Rapid Prototyper	試作品を素早く作る
+Realtime Collaboration Engineer	同時編集・リアルタイム同期
+Rust Refactoring Specialist	Rust の大規模な整理
+Search Relevance Engineer	検索結果の並び順の調整
+Section 508 Accessibility Specialist	米国連邦基準のアクセシビリティ
+Senior Developer	Laravel・高度な CSS・Three.js の実装
+ServiceNow Developer & Mentor	ServiceNow の開発と不具合調査
+Software Architect	システム全体の設計と技術判断
+Solidity Smart Contract Engineer	スマートコントラクト開発
+SRE (Site Reliability Engineer)	本番の安定運用・監視・目標値の管理
+Technical Writer	説明書・README・API 資料の作成
+Universal Document Compiler	構造化データから提案書などの文書を組版
+USWDS Developer	米国政府のデザインシステムでの実装
+Video Streaming Engineer	動画配信（HLS・変換・CDN）
+Voice AI Integration Engineer	音声の文字起こしの仕組み
+WebAssembly Engineer	WebAssembly
+WeChat Mini Program Developer	WeChat ミニプログラム（中国向け）
+WordPress Performance Engineer	WordPress の高速化
+WordPress Shopping Cart Engineer	WooCommerce の EC サイト
+Bookkeeper & Controller	日々の記帳・照合・月次決算・内部統制
+Financial Analyst	財務モデル・予測・シナリオ分析
+FP&A Analyst	予算づくりと予実差異の分析
+Investment Researcher	市場調査・投資先の調査
+Tax Strategist	税務の検討（日本の税制に読み替え、最終判断は税理士）
+Economy Designer	ゲーム内経済・課金の設計
+Game Audio Engineer	ゲームの音響
+Game Designer	ゲームの仕組みと遊びの設計
+Level Designer	ステージ設計
+Narrative Designer	ゲームのシナリオ・会話分岐
+Technical Artist	シェーダー・エフェクト・最適化
+Blender Add-on Engineer	Blender のアドオン・自動化
+Godot Gameplay Scripter	Godot のゲーム処理
+Godot Multiplayer Engineer	Godot の通信対戦
+Godot Shader Developer	Godot のシェーダー
+Roblox Avatar Creator	Roblox のアバター・UGC
+Roblox Experience Designer	Roblox の体験設計と課金
+Roblox Systems Scripter	Roblox のスクリプト
+Unity Architect	Unity の設計
+Unity Editor Tool Developer	Unity エディタ拡張
+Unity Multiplayer Engineer	Unity の通信対戦
+Unity Shader Graph Artist	Unity のシェーダー
+Unreal Multiplayer Architect	Unreal の通信対戦
+Unreal Systems Engineer	Unreal の基盤と性能
+Unreal Technical Artist	Unreal のマテリアル・エフェクト
+Unreal World Builder	Unreal のオープンワールド制作
+3D & Scene Developer	Web 上の 3D 地形・点群の表示
+GIS Analyst	地図作成と空間検索
+BIM/GIS Specialist	建物モデル（BIM）と地図の連携
+Cartography Designer	見やすい地図のデザイン
+Drone/Reality Mapping Specialist	ドローン写真から地形・3D モデル
+GeoAI/ML Engineer	衛星・航空写真の機械学習
+Geoprocessing Specialist	ArcGIS の処理の自動化
+GIS QA Engineer	地理データの品質確認
+Solution Engineer	GIS の試作・デモ
+Spatial Data Engineer	地理データの変換と整形
+Spatial Data Scientist	地理データの統計分析
+Technical Consultant	業務課題を地図・GIS で解決する提案
+Web GIS Developer	Web 地図アプリ（MapLibre・Leaflet など）
+Clinical Evidence Agent	医療の主張の根拠の扱い方
+Healthcare Innovation Strategist	医療系スタートアップの事業の語り方
+Sovereign Health Systems Agent	各国政府の医療施策への提案
+AEO Foundations Architect	AI 検索に拾われるためのサイト設定（llms.txt など）
+Agentic Search Optimizer	AI エージェントがサイトで操作を完了できるかの点検
+AI Citation Strategist	ChatGPT や Claude の回答に自社が出るかの点検と対策
+App Store Optimizer	アプリストアでの表示順と申込率の改善
+Baidu SEO Specialist	中国の検索 Baidu 向け SEO
+Bilibili Content Strategist	bilibili の運用（中国向け）
+Book Co-Author	経営者の音声メモなどから本を共著
+Carousel Growth Engine	サイトから TikTok・Instagram のカルーセル投稿を自動生成
+China E-Commerce Operator	Taobao・天猫など中国 EC の運営
+China Market Localization Strategist	中国市場向けの現地化
+Content Creator	複数媒体の記事・投稿の計画と執筆
+Cross-Border E-Commerce Specialist	Amazon・Shopee などの越境 EC
+Developer Community Builder	開発者コミュニティの運営
+Douyin Strategist	抖音（中国版 TikTok）の運用
+Email Marketing Strategist	メール配信の設計と自動化
+Global Podcast Strategist	ポッドキャストの企画と集客
+Growth Hacker	実験を回して利用者を増やす
+Instagram Curator	Instagram の運用
+Kuaishou Strategist	快手の運用（中国向け）
+LinkedIn Content Creator	LinkedIn の投稿
+Livestream Commerce Coach	ライブ配信販売の指導（中国向け）
+Multi-Platform Publisher	中国のブログ媒体へ下書き一括投稿
+Podcast Strategist	中国のポッドキャスト
+PR & Communications Manager	広報・プレスリリース・炎上対応
+Private Domain Operator	WeChat 法人版での顧客管理（中国向け）
+Reddit Community Builder	Reddit の運用
+SEO Specialist	検索上位を狙うサイト改善
+Short-Video Editing Coach	短尺動画の編集指導（CapCut など）
+Social Media Strategist	複数 SNS の運用計画
+TikTok Strategist	TikTok の運用
+Twitter Engager	X での発信と交流
+Video Optimization Specialist	YouTube の視聴維持・サムネイル・章立て
+WeChat Official Account Manager	WeChat 公式アカウント（中国向け）
+Weibo Strategist	微博の運用（中国向け）
+X/Twitter Intelligence Analyst	X のトレンド調査とアカウント監視
+Xiaohongshu Specialist	小紅書の運用（中国向け）
+Zhihu Strategist	知乎の運用（中国向け）
+Paid Media Auditor	Google・Meta 広告アカウントの総点検
+Ad Creative Strategist	広告文・素材のテスト計画
+Paid Social Strategist	Meta・TikTok などの SNS 広告
+PPC Campaign Strategist	検索連動型広告の設計と予算配分
+Programmatic & Display Buyer	ディスプレイ広告の買い付け
+Search Query Analyst	検索語句の分析と除外キーワード
+Tracking & Measurement Specialist	GA4・タグ設定・成果の計測
+Behavioral Nudge Engine	行動心理で使い続けてもらう工夫
+DX Engineer	開発者が最初に使えるまでの手間を減らす
+Feedback Synthesizer	利用者の声を集めて改善点にまとめる
+Product Manager	製品の企画から公開までを統括
+Sprint Prioritizer	作業の優先順位づけ
+Trend Researcher	市場の流れと競合の調査
+Experiment Tracker	実験の設計と結果の記録
+Jira Workflow Steward	Jira と Git を結びつけた作業管理
+Meeting Notes Specialist	議事録から決定事項と宿題を抜き出す
+Project Shepherd	部門をまたぐ案件の進行と日程管理
+Studio Operations	日々の業務効率と人の割り振り
+Studio Producer	複数案件の全体統括
+Senior Project Manager	仕様を作業に分解して管理
+Research Synthesist	文献調査と根拠のまとめ
+Account Strategist	契約後の取引拡大と定例レビュー
+Sales Coach	営業担当の育成と商談の振り返り
+Deal Strategist	商談の見込み判定と勝ち筋づくり
+Discovery Coach	初回ヒアリングの質問設計
+Sales Engineer	技術デモと試験導入の範囲決め
+Offer & Lead Gen Strategist	申し込みたくなる商品設計と見込み客集め
+Outbound Strategist	狙う顧客の定義と新規開拓の手順
+Pipeline Analyst	商談の進み具合と売上予測
+Proposal Strategist	提案書・入札資料の作成
+AI-Generated Code Security Auditor	AI が書いたコードの秘密情報の漏れや権限の穴を点検
+Application Security Engineer	脅威の洗い出しと安全なコードの確認
+Security Architect	安全な設計
+Blockchain Security Auditor	スマートコントラクトの監査
+Cloud Security Architect	クラウドのゼロトラスト設計
+Compliance Auditor	SOC 2・ISO 27001 などの監査対応
+Incident Responder	侵害の調査と封じ込め
+Penetration Tester	許可を得たうえでの侵入テスト
+Secrets & Credential Hygiene Engineer	API キーやパスワードの保管と更新
+Senior SecOps Engineer	コードを出すたびに秘密情報をスキャン
+Threat Detection Engineer	攻撃の検知ルールづくり
+Threat Intelligence Analyst	攻撃者グループの動向分析
+macOS Spatial/Metal Engineer	macOS・Vision Pro の 3D 描画
+Terminal Integration Specialist	Swift アプリのターミナル表示
+visionOS Spatial Engineer	visionOS アプリ
+XR Cockpit Interaction Specialist	XR のコックピット型操作
+XR Immersive Developer	WebXR（AR・VR）の開発
+XR Interface Architect	AR・VR の操作設計
+Accounts Payable Agent	支払いの自動実行（このスキルでは実行させない）
+Agentic Identity & Trust Architect	AI エージェントの認証と信頼の設計
+Agents Orchestrator	他のエージェントに仕事を振り分ける司令塔（開発の流れ）
+Automation Governance Architect	業務自動化の価値とリスクを審査（n8n など）
+Business Strategist	競合分析・参入戦略・ビジネスモデル
+Change Management Consultant	組織変革の進め方
+Chief Financial Officer	資金配分・資金繰り・財務計画
+Corporate Training Designer	社内研修の設計
+Customer Service	業種を問わない問い合わせ対応
+Customer Success Manager	導入支援と解約防止
+Data Consolidation Agent	売上データを集計表にまとめる
+Data Privacy Officer	個人情報保護の体制づくり（GDPR など）
+ESG & Sustainability Officer	ESG の報告
+Government Digital Presales Consultant	行政 DX の提案（中国向け）
+Grant Writer	助成金・補助金の申請書
+Aging Parent Care Companion	高齢の親の介護を家族の立場で支える
+Healthcare Customer Service	患者向けの窓口対応
+Healthcare Marketing Compliance Specialist	医療広告の規制（中国向け）
+Hospitality Guest Services	ホテルや飲食店の接客
+HR Onboarding	入社手続きと受け入れ
+Identity Graph Operator	複数のエージェントが同じ人物を同一と扱えるようにする管理
+Language Translator	スペイン語と英語の通訳
+Legal Billing & Time Tracking	法律事務所の時間記録と請求
+Legal Client Intake	法律相談の受付
+Legal Document Review	契約書などの確認
+Loan Officer Assistant	住宅ローン担当の補助
+LSP/Index Engineer	コード解析の基盤
+M&A Integration Manager	買収後の統合
+Medical Billing & Coding Specialist	米国の診療報酬請求
+Operations Manager	業務の流れの見える化と改善
+Organizational Psychologist	チームの状態や燃え尽きの診断
+Personal Growth Mentor	目標設定と習慣づくり
+Real Estate Buyer & Seller	不動産仲介の補助
+Recruitment Specialist	採用（中国の求人媒体中心）
+Report Distribution Agent	売上報告の自動配信
+Resume Tailor	求人に合わせた履歴書の調整
+Retail Customer Returns	返品と交換の対応
+Sales Data Extraction Agent	Excel から売上の指標を抜き出す
+Sales Outreach	B2B の新規開拓メールから商談化まで
+Chief of Staff	経営者の補佐役。雑務を仕分けて担当者に振る
+Civil Engineer	土木・構造設計
+Codebase Archaeologist	複数の AI ツールが触ったコードの食い違いを見つける
+Cultural Intelligence Strategist	文化の違いによる排除を防ぐ
+Developer Advocate	開発者向けの広報
+Document Generator	PDF・PPTX・DOCX・XLSX をコードで作る
+FedRAMP & RMF Compliance Engineer	米国政府向けクラウドの基準
+Focus Music Architect	集中用 BGM の生成プロンプト
+French Consulting Market Navigator	フランスのフリーランス市場
+Korean Business Navigator	韓国の商習慣
+Master Plan Architect	大きな計画を立てて厳しく批評する（コードは書かない）
+MCP Builder	MCP サーバーの開発
+Model QA Specialist	機械学習・統計モデルの監査
+Pricing Analyst	価格設定
+Salesforce Architect	Salesforce の設計
+Strategy Duel Agent	ゲーム理論と兵法三十六計で戦略を競わせる
+Workflow Architect	業務やシステムの流れを分岐・失敗まで漏れなく書き出す
+Study Abroad Advisor	留学相談
+Supply Chain Strategist	調達と供給網
+ZK Steward	カード式（ツェッテルカステン）の知識管理
+Analytics Reporter	数字を集計して報告書にまとめる
+Executive Summary Generator	資料をコンサル風の要約にする
+Finance Tracker	予算管理と業績の追跡
+Infrastructure Maintainer	サーバーなどの安定運用
+Legal Compliance Checker	業務・データ・発信内容の法令確認
+Support Responder	問い合わせ対応
+Accessibility Auditor	WCAG に沿った使いやすさの点検
+API Tester	API の動作と性能の確認
+Evidence Collector	画面の証拠つきで不具合を報告
+Performance Benchmarker	速度の計測と改善
+Reality Checker	証拠が揃うまで合格にしない最終確認役
+Test Automation Engineer	Playwright などで画面テストを自動化
+Test Results Analyzer	テスト結果の分析
+Tool Evaluator	ツールやサービスの比較評価
+Workflow Optimizer	業務手順の見直しと自動化

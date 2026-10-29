@@ -1,0 +1,262 @@
+name	jp_name
+Anthropologist	文化人類学者
+Geographer	地理学者
+Historian	歴史学者
+Narratologist	物語論の専門家
+Psychologist	心理学者
+Statistician	統計の専門家
+Brand Guardian	ブランド管理担当
+Image Prompt Engineer	画像生成プロンプト担当
+Inclusive Visuals Specialist	多様性に配慮した画像担当
+Persona Walkthrough Specialist	利用者目線の画面チェック担当
+UI Designer	UIデザイナー
+UI Finish-Gate Reviewer	UI仕上げ審査担当
+UX Architect	UXアーキテクト
+UX Researcher	UXリサーチャー
+Visual Storyteller	ビジュアル表現担当
+Whimsy Injector	遊び心の演出担当
+AI Data Remediation Engineer	データ自動修復エンジニア
+AI Engineer	AIエンジニア
+API Platform Engineer	API基盤エンジニア
+ATS Validator Architect	履歴書解析の検証担当
+Autonomous Optimization Architect	AI API費用最適化担当
+Backend Architect	バックエンド設計担当
+CMS Developer	CMS開発担当
+Code Reviewer	コードレビュー担当
+Codebase Onboarding Engineer	コード読解ガイド担当
+Data Engineer	データエンジニア
+Data Visualization Engineer	データ可視化エンジニア
+Database Optimizer	データベース最適化担当
+Database Reliability Engineer	データベース信頼性担当
+Desktop App Engineer	デスクトップアプリ開発担当
+Developer Tooling Engineer	開発ツール担当
+DevOps Automator	DevOps自動化担当
+Drupal Performance Engineer	Drupal高速化担当
+Drupal Shopping Cart Engineer	Drupal EC担当
+Electrical Engineer	電気設備エンジニア
+Email Intelligence Engineer	メール解析エンジニア
+Embedded Firmware Engineer	組込みファームウェア担当
+Filament Optimization Specialist	Filament管理画面担当
+FinOps Engineer	クラウド費用管理担当
+Frontend Developer	フロントエンド開発担当
+GaussDB Expert Engineer	GaussDB担当
+Git Workflow Master	Git運用担当
+Internationalization Engineer	多言語対応エンジニア
+Identity & Access Engineer	認証・権限エンジニア
+Incident Response Commander	障害対応指揮担当
+IoT Fleet Engineer	IoT機器管理担当
+IT Service Manager	ITサービス管理担当
+Knowledge Graph Engineer	ナレッジグラフ担当
+LLM Post-Training Engineer	LLM追加学習担当
+Minimal Change Engineer	最小変更エンジニア
+Mobile App Builder	スマホアプリ開発担当
+Mobile Release Engineer	アプリ公開担当
+Multi-Agent Systems Architect	マルチエージェント設計担当
+Network Engineer	ネットワークエンジニア
+OrgScript Engineer	OrgScript担当
+Payments & Billing Engineer	決済・課金エンジニア
+PDF Engine Architect	PDF生成エンジン担当
+Platform Engineer	開発基盤エンジニア
+Privacy Engineer	プライバシー実装担当
+Prompt Engineer	プロンプト設計担当
+RAG Pipeline Engineer	RAG構築担当
+Rapid Prototyper	試作担当
+Realtime Collaboration Engineer	リアルタイム同期担当
+Rust Refactoring Specialist	Rust整理担当
+Search Relevance Engineer	検索精度担当
+Section 508 Accessibility Specialist	米国アクセシビリティ基準担当
+Senior Developer	シニア開発者
+ServiceNow Developer & Mentor	ServiceNow担当
+Software Architect	ソフトウェアアーキテクト
+Solidity Smart Contract Engineer	スマートコントラクト開発担当
+SRE (Site Reliability Engineer)	SRE（安定運用担当）
+Technical Writer	テクニカルライター
+Universal Document Compiler	文書組版担当
+USWDS Developer	米国政府デザイン実装担当
+Video Streaming Engineer	動画配信エンジニア
+Voice AI Integration Engineer	音声文字起こしエンジニア
+WebAssembly Engineer	WebAssembly担当
+WordPress Performance Engineer	WordPress高速化担当
+WordPress Shopping Cart Engineer	WooCommerce担当
+Bookkeeper & Controller	経理・記帳担当
+Financial Analyst	財務アナリスト
+FP&A Analyst	予算・予実管理担当
+Investment Researcher	投資リサーチ担当
+Tax Strategist	税務担当
+Economy Designer	ゲーム経済設計担当
+Game Audio Engineer	ゲームサウンド担当
+Game Designer	ゲームデザイナー
+Level Designer	レベルデザイナー
+Narrative Designer	ゲームシナリオ担当
+Technical Artist	テクニカルアーティスト
+Blender Add-on Engineer	Blenderアドオン担当
+Godot Gameplay Scripter	Godotゲーム処理担当
+Godot Multiplayer Engineer	Godot通信対戦担当
+Godot Shader Developer	Godotシェーダー担当
+Roblox Avatar Creator	Robloxアバター担当
+Roblox Experience Designer	Roblox体験設計担当
+Roblox Systems Scripter	Robloxスクリプト担当
+Unity Architect	Unity設計担当
+Unity Editor Tool Developer	Unityエディタ拡張担当
+Unity Multiplayer Engineer	Unity通信対戦担当
+Unity Shader Graph Artist	Unityシェーダー担当
+Unreal Multiplayer Architect	Unreal通信対戦担当
+Unreal Systems Engineer	Unreal基盤担当
+Unreal Technical Artist	Unrealアート担当
+Unreal World Builder	Unrealワールド制作担当
+3D & Scene Developer	Web 3D表示担当
+GIS Analyst	GISアナリスト
+BIM/GIS Specialist	BIM・GIS連携担当
+Cartography Designer	地図デザイン担当
+Drone/Reality Mapping Specialist	ドローン測量担当
+GeoAI/ML Engineer	地理AI担当
+Geoprocessing Specialist	地理処理自動化担当
+GIS QA Engineer	地理データ品質担当
+Solution Engineer	GIS試作担当
+Spatial Data Engineer	地理データ整形担当
+Spatial Data Scientist	空間データ分析担当
+Technical Consultant	GISコンサルタント
+Web GIS Developer	Web地図開発担当
+Clinical Evidence Agent	医療エビデンス担当
+Healthcare Innovation Strategist	医療事業戦略担当
+Sovereign Health Systems Agent	医療政策提案担当
+AEO Foundations Architect	AI検索対応サイト設計担当
+Agentic Search Optimizer	AIエージェント対応担当
+AI Citation Strategist	AI回答での露出対策担当
+App Store Optimizer	アプリストア最適化担当
+Book Co-Author	書籍共著担当
+Carousel Growth Engine	カルーセル投稿自動生成担当
+Content Creator	コンテンツ制作担当
+Cross-Border E-Commerce Specialist	越境EC担当
+Developer Community Builder	開発者コミュニティ担当
+Email Marketing Strategist	メールマーケティング担当
+Global Podcast Strategist	海外ポッドキャスト担当
+Growth Hacker	グロース担当
+Instagram Curator	Instagram運用担当
+LinkedIn Content Creator	LinkedIn運用担当
+PR & Communications Manager	広報担当
+Reddit Community Builder	Reddit運用担当
+SEO Specialist	SEO担当
+Short-Video Editing Coach	動画編集コーチ
+Social Media Strategist	SNS戦略担当
+TikTok Strategist	TikTok運用担当
+Twitter Engager	X運用担当
+Video Optimization Specialist	YouTube最適化担当
+X/Twitter Intelligence Analyst	X分析担当
+Paid Media Auditor	広告アカウント監査担当
+Ad Creative Strategist	広告クリエイティブ担当
+Paid Social Strategist	SNS広告担当
+PPC Campaign Strategist	検索広告担当
+Programmatic & Display Buyer	ディスプレイ広告担当
+Search Query Analyst	検索語句分析担当
+Tracking & Measurement Specialist	計測・タグ設定担当
+Behavioral Nudge Engine	行動デザイン担当
+DX Engineer	開発者体験担当
+Feedback Synthesizer	利用者の声分析担当
+Product Manager	プロダクトマネージャー
+Sprint Prioritizer	優先順位づけ担当
+Trend Researcher	市場トレンド調査担当
+Experiment Tracker	実験管理担当
+Jira Workflow Steward	Jira運用担当
+Meeting Notes Specialist	議事録担当
+Project Shepherd	プロジェクト進行担当
+Studio Operations	業務運営担当
+Studio Producer	統括プロデューサー
+Senior Project Manager	シニアプロジェクトマネージャー
+Research Synthesist	文献調査担当
+Account Strategist	既存顧客拡大担当
+Sales Coach	営業コーチ
+Deal Strategist	商談戦略担当
+Discovery Coach	ヒアリング設計担当
+Sales Engineer	セールスエンジニア
+Offer & Lead Gen Strategist	商品設計・集客担当
+Outbound Strategist	新規開拓担当
+Pipeline Analyst	商談パイプライン分析担当
+Proposal Strategist	提案書担当
+AI-Generated Code Security Auditor	AI生成コード安全監査担当
+Application Security Engineer	アプリセキュリティ担当
+Security Architect	セキュリティ設計担当
+Blockchain Security Auditor	ブロックチェーン監査担当
+Cloud Security Architect	クラウドセキュリティ担当
+Compliance Auditor	認証監査対応担当
+Incident Responder	セキュリティ事故対応担当
+Penetration Tester	侵入テスト担当
+Secrets & Credential Hygiene Engineer	秘密情報管理担当
+Senior SecOps Engineer	セキュリティ運用担当
+Threat Detection Engineer	脅威検知担当
+Threat Intelligence Analyst	脅威情報分析担当
+macOS Spatial/Metal Engineer	macOS 3D描画担当
+Terminal Integration Specialist	ターミナル表示担当
+visionOS Spatial Engineer	visionOS開発担当
+XR Cockpit Interaction Specialist	XRコックピット操作担当
+XR Immersive Developer	WebXR開発担当
+XR Interface Architect	XR操作設計担当
+Accounts Payable Agent	支払処理担当
+Agentic Identity & Trust Architect	AIエージェント認証設計担当
+Agents Orchestrator	エージェント統括担当
+Automation Governance Architect	業務自動化審査担当
+Business Strategist	経営戦略担当
+Change Management Consultant	組織変革コンサルタント
+Chief Financial Officer	CFO（最高財務責任者）
+Corporate Training Designer	社内研修設計担当
+Customer Service	カスタマーサービス担当
+Customer Success Manager	カスタマーサクセス担当
+Data Consolidation Agent	売上データ集約担当
+Data Privacy Officer	個人情報保護責任者
+ESG & Sustainability Officer	ESG担当
+Grant Writer	助成金申請担当
+Aging Parent Care Companion	介護サポート担当
+Healthcare Customer Service	医療窓口担当
+Hospitality Guest Services	接客担当
+HR Onboarding	入社手続き担当
+Identity Graph Operator	同一人物判定担当
+Language Translator	スペイン語通訳担当
+Legal Billing & Time Tracking	法律事務所の請求担当
+Legal Client Intake	法律相談受付担当
+Legal Document Review	契約書チェック担当
+Loan Officer Assistant	ローン担当補佐
+LSP/Index Engineer	コード解析基盤担当
+M&A Integration Manager	M&A統合担当
+Medical Billing & Coding Specialist	米国医療請求担当
+Operations Manager	オペレーション管理担当
+Organizational Psychologist	組織心理担当
+Personal Growth Mentor	自己成長メンター
+Real Estate Buyer & Seller	不動産仲介補佐
+Report Distribution Agent	報告書配信担当
+Resume Tailor	履歴書調整担当
+Retail Customer Returns	返品対応担当
+Sales Data Extraction Agent	売上指標抽出担当
+Sales Outreach	法人営業担当
+Chief of Staff	社長室長
+Civil Engineer	土木・構造エンジニア
+Codebase Archaeologist	コード食い違い調査担当
+Cultural Intelligence Strategist	異文化配慮担当
+Developer Advocate	デベロッパーアドボケイト
+Document Generator	文書ファイル生成担当
+FedRAMP & RMF Compliance Engineer	米国政府クラウド基準担当
+Focus Music Architect	集中BGM担当
+French Consulting Market Navigator	フランス市場案内担当
+Korean Business Navigator	韓国ビジネス案内担当
+Master Plan Architect	全体計画担当
+MCP Builder	MCP開発担当
+Model QA Specialist	モデル品質監査担当
+Pricing Analyst	価格設定担当
+Salesforce Architect	Salesforce設計担当
+Strategy Duel Agent	戦略対決担当
+Workflow Architect	業務フロー設計担当
+ZK Steward	知識カード管理担当
+Analytics Reporter	分析レポート担当
+Executive Summary Generator	経営向け要約担当
+Finance Tracker	予算管理担当
+Infrastructure Maintainer	インフラ保守担当
+Legal Compliance Checker	法令チェック担当
+Support Responder	問い合わせ対応担当
+Accessibility Auditor	アクセシビリティ監査担当
+API Tester	APIテスト担当
+Evidence Collector	証拠つき品質確認担当
+Performance Benchmarker	性能測定担当
+Reality Checker	最終品質判定担当
+Test Automation Engineer	テスト自動化担当
+Test Results Analyzer	テスト結果分析担当
+Tool Evaluator	ツール評価担当
+Workflow Optimizer	業務改善担当
