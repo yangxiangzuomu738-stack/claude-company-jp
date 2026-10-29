@@ -17,7 +17,7 @@ import sys
 REPO = pathlib.Path(__file__).resolve().parent.parent
 TOOLS = REPO / "tools"
 OUT = REPO / "agents"
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 ROSTER = REPO / "skills" / "claude-company-jp" / "references" / "担当者一覧.md"
 
 # 元の部門 -> 日本版のフォルダ
