@@ -4,7 +4,7 @@
     python -I tools/build.py <作業フォルダ>
 
 - 担当者の名前と説明は tools/names-ja.tsv と tools/roles-ja.tsv から付ける。
-- tools/japan/ にある担当者は、中国市場向けの原文の代わりに日本向けに書き直したものを使う。
+- tools/japan/ にある担当者は、原文の代わりに日本向けに書き直したものを使う。
 - 出力: agents/<部門>/jp-*.md と skills/claude-company-jp/references/担当者一覧.md
 """
 import csv
@@ -17,7 +17,7 @@ import sys
 REPO = pathlib.Path(__file__).resolve().parent.parent
 TOOLS = REPO / "tools"
 OUT = REPO / "agents"
-VERSION = "1.1.0"
+VERSION = "1.2.0"
 ROSTER = REPO / "skills" / "claude-company-jp" / "references" / "担当者一覧.md"
 
 # 元の部門 -> 日本版のフォルダ
@@ -163,7 +163,7 @@ def write_roster(rows):
         "# 担当者一覧",
         "",
         f"全{len(rows)}人。Agent ツールの subagent_type には「名前」をそのまま渡す。",
-        "「日本向け」は、中国市場向けだった原文を日本の媒体・制度向けに書き直した担当者。",
+        "「日本向け」は、中国市場や米国の制度を前提にした原文を、日本の媒体・制度向けに書き直した担当者。",
         "",
     ]
     for folder in sorted({r[0] for r in rows}):
