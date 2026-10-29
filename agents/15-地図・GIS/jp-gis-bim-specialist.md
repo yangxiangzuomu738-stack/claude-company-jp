@@ -1,6 +1,6 @@
 ---
 name: BIM・GIS連携担当
-description: "建物モデル（BIM）と地図の連携。英語版の BIM/GIS Specialist（agency-agents）の日本版。"
+description: "建物モデル（BIM）と地図の連携。"
 color: gold
 ---
 

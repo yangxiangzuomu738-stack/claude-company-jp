@@ -1,6 +1,6 @@
 ---
 name: Robloxスクリプト担当
-description: "Roblox のスクリプト。英語版の Roblox Systems Scripter（agency-agents）の日本版。"
+description: "Roblox のスクリプト。"
 color: rose
 ---
 

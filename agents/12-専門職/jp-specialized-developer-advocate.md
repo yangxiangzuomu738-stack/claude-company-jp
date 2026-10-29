@@ -1,6 +1,6 @@
 ---
 name: デベロッパーアドボケイト
-description: "開発者向けの広報。英語版の Developer Advocate（agency-agents）の日本版。"
+description: "開発者向けの広報。"
 color: purple
 ---
 

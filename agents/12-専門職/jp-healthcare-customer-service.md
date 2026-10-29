@@ -1,6 +1,6 @@
 ---
 name: 医療窓口担当
-description: "患者向けの窓口対応。英語版の Healthcare Customer Service（agency-agents）の日本版。"
+description: "患者向けの窓口対応。"
 color: teal
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: CFO（最高財務責任者）
-description: "資金配分・資金繰り・財務計画。英語版の Chief Financial Officer（agency-agents）の日本版。"
+description: "資金配分・資金繰り・財務計画。"
 color: navy
 ---
 

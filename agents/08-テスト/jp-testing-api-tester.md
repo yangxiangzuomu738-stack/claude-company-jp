@@ -1,6 +1,6 @@
 ---
 name: APIテスト担当
-description: "API の動作と性能の確認。英語版の API Tester（agency-agents）の日本版。"
+description: "API の動作と性能の確認。"
 color: purple
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: テスト自動化担当
-description: "Playwright などで画面テストを自動化。英語版の Test Automation Engineer（agency-agents）の日本版。"
+description: "Playwright などで画面テストを自動化。"
 color: "#2EAD33"
 ---
 

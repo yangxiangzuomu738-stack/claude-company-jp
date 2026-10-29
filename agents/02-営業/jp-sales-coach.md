@@ -1,6 +1,6 @@
 ---
 name: 営業コーチ
-description: "営業担当の育成と商談の振り返り。英語版の Sales Coach（agency-agents）の日本版。"
+description: "営業担当の育成と商談の振り返り。"
 color: "#E65100"
 ---
 

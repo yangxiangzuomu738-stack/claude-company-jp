@@ -1,6 +1,6 @@
 ---
 name: 検索広告担当
-description: "検索連動型広告の設計と予算配分。英語版の PPC Campaign Strategist（agency-agents）の日本版。"
+description: "検索連動型広告の設計と予算配分。"
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

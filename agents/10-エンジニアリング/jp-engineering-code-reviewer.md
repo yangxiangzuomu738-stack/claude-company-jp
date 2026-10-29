@@ -1,6 +1,6 @@
 ---
 name: コードレビュー担当
-description: "コードレビュー（正しさ・保守性・安全性）。英語版の Code Reviewer（agency-agents）の日本版。"
+description: "コードレビュー（正しさ・保守性・安全性）。"
 color: purple
 ---
 

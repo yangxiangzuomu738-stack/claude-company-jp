@@ -1,6 +1,6 @@
 ---
 name: 経理・記帳担当
-description: "日々の記帳・照合・月次決算・内部統制。英語版の Bookkeeper & Controller（agency-agents）の日本版。"
+description: "日々の記帳・照合・月次決算・内部統制。"
 color: green
 ---
 

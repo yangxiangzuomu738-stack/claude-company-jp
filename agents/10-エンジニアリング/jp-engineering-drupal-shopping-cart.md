@@ -1,6 +1,6 @@
 ---
 name: Drupal EC担当
-description: "Drupal の EC サイト。英語版の Drupal Shopping Cart Engineer（agency-agents）の日本版。"
+description: "Drupal の EC サイト。"
 color: blue
 ---
 

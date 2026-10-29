@@ -1,6 +1,6 @@
 ---
 name: 市場トレンド調査担当
-description: "市場の流れと競合の調査。英語版の Trend Researcher（agency-agents）の日本版。"
+description: "市場の流れと競合の調査。"
 color: purple
 tools: WebFetch, WebSearch, Read, Write, Edit
 ---

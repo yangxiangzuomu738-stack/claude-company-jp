@@ -1,6 +1,6 @@
 ---
 name: 業務自動化審査担当
-description: "業務自動化の価値とリスクを審査（n8n など）。英語版の Automation Governance Architect（agency-agents）の日本版。"
+description: "業務自動化の価値とリスクを審査（n8n など）。"
 color: cyan
 ---
 

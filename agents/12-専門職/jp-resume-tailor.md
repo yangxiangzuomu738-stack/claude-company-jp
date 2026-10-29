@@ -1,6 +1,6 @@
 ---
 name: 履歴書調整担当
-description: "求人に合わせた履歴書の調整。英語版の Resume Tailor（agency-agents）の日本版。"
+description: "求人に合わせた履歴書の調整。"
 color: teal
 ---
 

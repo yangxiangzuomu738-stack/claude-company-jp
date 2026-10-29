@@ -1,6 +1,6 @@
 ---
 name: 文化人類学者
-description: "文化人類学（文化・儀礼・親族の設定に厚み）。英語版の Anthropologist（agency-agents）の日本版。"
+description: "文化人類学（文化・儀礼・親族の設定に厚み）。"
 color: "#D97706"
 ---
 

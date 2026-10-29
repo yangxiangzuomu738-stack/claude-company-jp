@@ -1,6 +1,6 @@
 ---
 name: 米国政府デザイン実装担当
-description: "米国政府のデザインシステムでの実装。英語版の USWDS Developer（agency-agents）の日本版。"
+description: "米国政府のデザインシステムでの実装。"
 color: blue
 ---
 

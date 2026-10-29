@@ -1,6 +1,6 @@
 ---
 name: ターミナル表示担当
-description: "Swift アプリのターミナル表示。英語版の Terminal Integration Specialist（agency-agents）の日本版。"
+description: "Swift アプリのターミナル表示。"
 color: green
 ---
 

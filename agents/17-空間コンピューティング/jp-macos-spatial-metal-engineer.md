@@ -1,6 +1,6 @@
 ---
 name: macOS 3D描画担当
-description: "macOS・Vision Pro の 3D 描画。英語版の macOS Spatial/Metal Engineer（agency-agents）の日本版。"
+description: "macOS・Vision Pro の 3D 描画。"
 color: metallic-blue
 ---
 

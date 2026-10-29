@@ -1,6 +1,6 @@
 ---
 name: 商品設計・集客担当
-description: "申し込みたくなる商品設計と見込み客集め。英語版の Offer & Lead Gen Strategist（agency-agents）の日本版。"
+description: "申し込みたくなる商品設計と見込み客集め。"
 color: "#F59E0B"
 ---
 

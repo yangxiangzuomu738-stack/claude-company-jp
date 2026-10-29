@@ -1,6 +1,6 @@
 ---
 name: 助成金申請担当
-description: "助成金・補助金の申請書。英語版の Grant Writer（agency-agents）の日本版。"
+description: "助成金・補助金の申請書。"
 color: purple
 ---
 

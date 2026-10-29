@@ -1,6 +1,6 @@
 ---
 name: 動画配信エンジニア
-description: "動画配信（HLS・変換・CDN）。英語版の Video Streaming Engineer（agency-agents）の日本版。"
+description: "動画配信（HLS・変換・CDN）。"
 color: "#DC2626"
 ---
 

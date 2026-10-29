@@ -1,6 +1,6 @@
 ---
 name: 米国政府クラウド基準担当
-description: "米国政府向けクラウドの基準。英語版の FedRAMP & RMF Compliance Engineer（agency-agents）の日本版。"
+description: "米国政府向けクラウドの基準。"
 color: red
 ---
 

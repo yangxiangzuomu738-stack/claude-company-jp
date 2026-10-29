@@ -1,6 +1,6 @@
 ---
 name: 歴史学者
-description: "歴史学（時代考証）。英語版の Historian（agency-agents）の日本版。"
+description: "歴史学（時代考証）。"
 color: "#B45309"
 ---
 

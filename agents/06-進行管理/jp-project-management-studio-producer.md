@@ -1,6 +1,6 @@
 ---
 name: 統括プロデューサー
-description: "複数案件の全体統括。英語版の Studio Producer（agency-agents）の日本版。"
+description: "複数案件の全体統括。"
 color: gold
 ---
 

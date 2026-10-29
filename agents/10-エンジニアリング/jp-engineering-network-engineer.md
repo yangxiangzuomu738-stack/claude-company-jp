@@ -1,6 +1,6 @@
 ---
 name: ネットワークエンジニア
-description: "ルーター・ファイアウォールの設定（Cisco など）。英語版の Network Engineer（agency-agents）の日本版。"
+description: "ルーター・ファイアウォールの設定（Cisco など）。"
 color: "#008c95"
 ---
 

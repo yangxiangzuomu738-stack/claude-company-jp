@@ -1,6 +1,6 @@
 ---
 name: コンテンツ制作担当
-description: "複数媒体の記事・投稿の計画と執筆。英語版の Content Creator（agency-agents）の日本版。"
+description: "複数媒体の記事・投稿の計画と執筆。"
 tools: WebFetch, WebSearch, Read, Write, Edit
 color: teal
 ---

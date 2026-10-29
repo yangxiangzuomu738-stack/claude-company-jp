@@ -1,6 +1,6 @@
 ---
 name: ナレッジグラフ担当
-description: "情報を関係図（ナレッジグラフ）に整理。英語版の Knowledge Graph Engineer（agency-agents）の日本版。"
+description: "情報を関係図（ナレッジグラフ）に整理。"
 color: violet
 ---
 

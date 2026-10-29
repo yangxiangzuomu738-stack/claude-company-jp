@@ -1,6 +1,6 @@
 ---
 name: ドローン測量担当
-description: "ドローン写真から地形・3D モデル。英語版の Drone/Reality Mapping Specialist（agency-agents）の日本版。"
+description: "ドローン写真から地形・3D モデル。"
 color: amber
 ---
 

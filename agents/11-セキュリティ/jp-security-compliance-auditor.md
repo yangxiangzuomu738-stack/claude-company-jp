@@ -1,6 +1,6 @@
 ---
 name: 認証監査対応担当
-description: "SOC 2・ISO 27001 などの監査対応。英語版の Compliance Auditor（agency-agents）の日本版。"
+description: "SOC 2・ISO 27001 などの監査対応。"
 color: orange
 ---
 

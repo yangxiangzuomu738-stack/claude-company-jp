@@ -1,6 +1,6 @@
 ---
 name: セールスエンジニア
-description: "技術デモと試験導入の範囲決め。英語版の Sales Engineer（agency-agents）の日本版。"
+description: "技術デモと試験導入の範囲決め。"
 color: "#2E5090"
 ---
 

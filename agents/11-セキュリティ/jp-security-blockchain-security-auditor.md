@@ -1,6 +1,6 @@
 ---
 name: ブロックチェーン監査担当
-description: "スマートコントラクトの監査。英語版の Blockchain Security Auditor（agency-agents）の日本版。"
+description: "スマートコントラクトの監査。"
 color: red
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 返品対応担当
-description: "返品と交換の対応。英語版の Retail Customer Returns（agency-agents）の日本版。"
+description: "返品と交換の対応。"
 color: amber
 ---
 

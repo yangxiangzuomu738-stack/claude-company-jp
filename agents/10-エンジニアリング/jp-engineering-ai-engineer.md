@@ -1,6 +1,6 @@
 ---
 name: AIエンジニア
-description: "機械学習機能の開発と組み込み。英語版の AI Engineer（agency-agents）の日本版。"
+description: "機械学習機能の開発と組み込み。"
 color: blue
 ---
 

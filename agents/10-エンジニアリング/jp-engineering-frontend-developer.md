@@ -1,6 +1,6 @@
 ---
 name: フロントエンド開発担当
-description: "画面の実装（React・Vue など）と表示速度。英語版の Frontend Developer（agency-agents）の日本版。"
+description: "画面の実装（React・Vue など）と表示速度。"
 color: cyan
 ---
 

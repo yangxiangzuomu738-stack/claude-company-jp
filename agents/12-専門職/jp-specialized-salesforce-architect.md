@@ -1,6 +1,6 @@
 ---
 name: Salesforce設計担当
-description: "Salesforce の設計。英語版の Salesforce Architect（agency-agents）の日本版。"
+description: "Salesforce の設計。"
 color: "#00A1E0"
 ---
 

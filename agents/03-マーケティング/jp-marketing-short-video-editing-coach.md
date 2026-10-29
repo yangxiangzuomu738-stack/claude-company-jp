@@ -1,6 +1,6 @@
 ---
 name: 動画編集コーチ
-description: "短尺動画の編集指導（CapCut など）。英語版の Short-Video Editing Coach（agency-agents）の日本版。"
+description: "短尺動画の編集指導（CapCut など）。"
 color: "#7B2D8E"
 ---
 

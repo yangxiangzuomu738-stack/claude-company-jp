@@ -1,6 +1,6 @@
 ---
 name: API基盤エンジニア
-description: "公開 API の設計・版管理・利用制限。英語版の API Platform Engineer（agency-agents）の日本版。"
+description: "公開 API の設計・版管理・利用制限。"
 color: "#0D9488"
 ---
 

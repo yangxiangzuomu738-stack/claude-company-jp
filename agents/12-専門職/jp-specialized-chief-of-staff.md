@@ -1,6 +1,6 @@
 ---
 name: 社長室長
-description: "経営者の補佐役。雑務を仕分けて担当者に振る。英語版の Chief of Staff（agency-agents）の日本版。"
+description: "経営者の補佐役。雑務を仕分けて担当者に振る。"
 color: "#6B7280"
 ---
 

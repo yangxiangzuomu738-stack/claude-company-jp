@@ -1,6 +1,6 @@
 ---
 name: 最小変更エンジニア
-description: "頼まれたことだけを最小の変更で直す。英語版の Minimal Change Engineer（agency-agents）の日本版。"
+description: "頼まれたことだけを最小の変更で直す。"
 color: slate
 ---
 

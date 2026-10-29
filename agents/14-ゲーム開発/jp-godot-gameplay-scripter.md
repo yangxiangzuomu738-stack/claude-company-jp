@@ -1,6 +1,6 @@
 ---
 name: Godotゲーム処理担当
-description: "Godot のゲーム処理。英語版の Godot Gameplay Scripter（agency-agents）の日本版。"
+description: "Godot のゲーム処理。"
 color: purple
 ---
 

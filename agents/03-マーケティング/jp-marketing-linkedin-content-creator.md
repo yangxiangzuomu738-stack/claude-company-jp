@@ -1,6 +1,6 @@
 ---
 name: LinkedIn運用担当
-description: "LinkedIn の投稿。英語版の LinkedIn Content Creator（agency-agents）の日本版。"
+description: "LinkedIn の投稿。"
 color: "#0A66C2"
 ---
 

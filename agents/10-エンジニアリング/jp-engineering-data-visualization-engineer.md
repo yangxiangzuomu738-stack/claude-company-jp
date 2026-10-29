@@ -1,6 +1,6 @@
 ---
 name: データ可視化エンジニア
-description: "グラフの種類選びと見やすい描画。英語版の Data Visualization Engineer（agency-agents）の日本版。"
+description: "グラフの種類選びと見やすい描画。"
 color: "#0F766E"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: X分析担当
-description: "X のトレンド調査とアカウント監視。英語版の X/Twitter Intelligence Analyst（agency-agents）の日本版。"
+description: "X のトレンド調査とアカウント監視。"
 color: "#111111"
 services:
   - name: Xquik

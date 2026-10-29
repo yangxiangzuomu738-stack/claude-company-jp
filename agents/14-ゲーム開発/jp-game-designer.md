@@ -1,6 +1,6 @@
 ---
 name: ゲームデザイナー
-description: "ゲームの仕組みと遊びの設計。英語版の Game Designer（agency-agents）の日本版。"
+description: "ゲームの仕組みと遊びの設計。"
 color: yellow
 ---
 

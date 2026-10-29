@@ -1,6 +1,6 @@
 ---
 name: 遊び心の演出担当
-description: "動きや遊び心で印象を残す。英語版の Whimsy Injector（agency-agents）の日本版。"
+description: "動きや遊び心で印象を残す。"
 color: pink
 ---
 

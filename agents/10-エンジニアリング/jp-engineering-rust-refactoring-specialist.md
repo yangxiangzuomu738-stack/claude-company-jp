@@ -1,6 +1,6 @@
 ---
 name: Rust整理担当
-description: "Rust の大規模な整理。英語版の Rust Refactoring Specialist（agency-agents）の日本版。"
+description: "Rust の大規模な整理。"
 color: "#991B1B"
 ---
 

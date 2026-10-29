@@ -1,6 +1,6 @@
 ---
 name: Unityシェーダー担当
-description: "Unity のシェーダー。英語版の Unity Shader Graph Artist（agency-agents）の日本版。"
+description: "Unity のシェーダー。"
 color: cyan
 ---
 

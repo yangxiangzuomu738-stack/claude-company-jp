@@ -1,6 +1,6 @@
 ---
 name: エージェント統括担当
-description: "他のエージェントに仕事を振り分ける司令塔（開発の流れ）。英語版の Agents Orchestrator（agency-agents）の日本版。"
+description: "他のエージェントに仕事を振り分ける司令塔（開発の流れ）。"
 color: cyan
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 税務担当
-description: "税務の検討（日本の税制に読み替え、最終判断は税理士）。英語版の Tax Strategist（agency-agents）の日本版。"
+description: "税務の検討（日本の税制に読み替え、最終判断は税理士）。"
 color: green
 ---
 

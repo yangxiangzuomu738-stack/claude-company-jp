@@ -1,6 +1,6 @@
 ---
 name: 法律事務所の請求担当
-description: "法律事務所の時間記録と請求。英語版の Legal Billing & Time Tracking（agency-agents）の日本版。"
+description: "法律事務所の時間記録と請求。"
 color: green
 ---
 

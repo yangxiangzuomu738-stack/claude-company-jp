@@ -1,6 +1,6 @@
 ---
 name: データエンジニア
-description: "データの取り込みと整形の流れづくり。英語版の Data Engineer（agency-agents）の日本版。"
+description: "データの取り込みと整形の流れづくり。"
 color: orange
 ---
 

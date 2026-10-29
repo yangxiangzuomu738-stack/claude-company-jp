@@ -1,6 +1,6 @@
 ---
 name: 業務改善担当
-description: "業務手順の見直しと自動化。英語版の Workflow Optimizer（agency-agents）の日本版。"
+description: "業務手順の見直しと自動化。"
 color: green
 ---
 

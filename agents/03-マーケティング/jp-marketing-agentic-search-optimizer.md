@@ -1,6 +1,6 @@
 ---
 name: AIエージェント対応担当
-description: "AI エージェントがサイトで操作を完了できるかの点検。英語版の Agentic Search Optimizer（agency-agents）の日本版。"
+description: "AI エージェントがサイトで操作を完了できるかの点検。"
 color: "#0891B2"
 ---
 

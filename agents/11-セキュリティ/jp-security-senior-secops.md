@@ -1,6 +1,6 @@
 ---
 name: セキュリティ運用担当
-description: "コードを出すたびに秘密情報をスキャン。英語版の Senior SecOps Engineer（agency-agents）の日本版。"
+description: "コードを出すたびに秘密情報をスキャン。"
 color: "#E67E22"
 ---
 

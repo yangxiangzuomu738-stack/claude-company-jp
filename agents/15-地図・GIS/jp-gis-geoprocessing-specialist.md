@@ -1,6 +1,6 @@
 ---
 name: 地理処理自動化担当
-description: "ArcGIS の処理の自動化。英語版の Geoprocessing Specialist（agency-agents）の日本版。"
+description: "ArcGIS の処理の自動化。"
 color: red
 ---
 

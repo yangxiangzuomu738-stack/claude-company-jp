@@ -1,6 +1,6 @@
 ---
 name: 業務運営担当
-description: "日々の業務効率と人の割り振り。英語版の Studio Operations（agency-agents）の日本版。"
+description: "日々の業務効率と人の割り振り。"
 color: green
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Reddit運用担当
-description: "Reddit の運用。英語版の Reddit Community Builder（agency-agents）の日本版。"
+description: "Reddit の運用。"
 color: "#FF4500"
 ---
 

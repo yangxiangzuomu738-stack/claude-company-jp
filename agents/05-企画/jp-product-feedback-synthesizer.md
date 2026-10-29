@@ -1,6 +1,6 @@
 ---
 name: 利用者の声分析担当
-description: "利用者の声を集めて改善点にまとめる。英語版の Feedback Synthesizer（agency-agents）の日本版。"
+description: "利用者の声を集めて改善点にまとめる。"
 color: blue
 tools: WebFetch, WebSearch, Read, Write, Edit
 ---

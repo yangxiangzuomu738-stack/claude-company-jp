@@ -1,6 +1,6 @@
 ---
 name: XR操作設計担当
-description: "AR・VR の操作設計。英語版の XR Interface Architect（agency-agents）の日本版。"
+description: "AR・VR の操作設計。"
 color: neon-green
 ---
 

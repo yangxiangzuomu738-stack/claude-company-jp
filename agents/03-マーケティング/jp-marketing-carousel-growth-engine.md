@@ -1,6 +1,6 @@
 ---
 name: カルーセル投稿自動生成担当
-description: "サイトから TikTok・Instagram のカルーセル投稿を自動生成。英語版の Carousel Growth Engine（agency-agents）の日本版。"
+description: "サイトから TikTok・Instagram のカルーセル投稿を自動生成。"
 color: "#FF0050"
 services:
   - name: Gemini API

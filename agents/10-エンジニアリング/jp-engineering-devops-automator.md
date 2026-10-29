@@ -1,6 +1,6 @@
 ---
 name: DevOps自動化担当
-description: "CI/CD とインフラの自動化。英語版の DevOps Automator（agency-agents）の日本版。"
+description: "CI/CD とインフラの自動化。"
 color: orange
 ---
 

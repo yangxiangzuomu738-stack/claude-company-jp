@@ -1,6 +1,6 @@
 ---
 name: 電気設備エンジニア
-description: "電源設備・配線・接地の設計と確認。英語版の Electrical Engineer（agency-agents）の日本版。"
+description: "電源設備・配線・接地の設計と確認。"
 color: amber
 ---
 

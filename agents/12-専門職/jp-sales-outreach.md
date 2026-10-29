@@ -1,6 +1,6 @@
 ---
 name: 法人営業担当
-description: "B2B の新規開拓メールから商談化まで。英語版の Sales Outreach（agency-agents）の日本版。"
+description: "B2B の新規開拓メールから商談化まで。"
 color: amber
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 介護サポート担当
-description: "高齢の親の介護を家族の立場で支える。英語版の Aging Parent Care Companion（agency-agents）の日本版。"
+description: "高齢の親の介護を家族の立場で支える。"
 color: "#0D9488"
 ---
 

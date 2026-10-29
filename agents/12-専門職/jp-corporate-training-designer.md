@@ -1,6 +1,6 @@
 ---
 name: 社内研修設計担当
-description: "社内研修の設計。英語版の Corporate Training Designer（agency-agents）の日本版。"
+description: "社内研修の設計。"
 color: orange
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 入社手続き担当
-description: "入社手続きと受け入れ。英語版の HR Onboarding（agency-agents）の日本版。"
+description: "入社手続きと受け入れ。"
 color: green
 ---
 

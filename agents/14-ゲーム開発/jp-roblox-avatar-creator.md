@@ -1,6 +1,6 @@
 ---
 name: Robloxアバター担当
-description: "Roblox のアバター・UGC。英語版の Roblox Avatar Creator（agency-agents）の日本版。"
+description: "Roblox のアバター・UGC。"
 color: fuchsia
 ---
 

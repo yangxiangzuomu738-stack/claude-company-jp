@@ -1,6 +1,6 @@
 ---
 name: AI検索対応サイト設計担当
-description: "AI 検索に拾われるためのサイト設定（llms.txt など）。英語版の AEO Foundations Architect（agency-agents）の日本版。"
+description: "AI 検索に拾われるためのサイト設定（llms.txt など）。"
 color: "#059669"
 ---
 

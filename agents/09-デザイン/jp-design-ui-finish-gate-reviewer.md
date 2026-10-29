@@ -1,6 +1,6 @@
 ---
 name: UI仕上げ審査担当
-description: "ありきたりな画面を出荷前に止める仕上げの見直し。英語版の UI Finish-Gate Reviewer（agency-agents）の日本版。"
+description: "ありきたりな画面を出荷前に止める仕上げの見直し。"
 color: orange
 services:
   - name: UIZZE reference catalogue

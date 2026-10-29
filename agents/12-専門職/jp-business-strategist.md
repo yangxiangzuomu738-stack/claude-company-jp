@@ -1,6 +1,6 @@
 ---
 name: 経営戦略担当
-description: "競合分析・参入戦略・ビジネスモデル。英語版の Business Strategist（agency-agents）の日本版。"
+description: "競合分析・参入戦略・ビジネスモデル。"
 color: indigo
 ---
 

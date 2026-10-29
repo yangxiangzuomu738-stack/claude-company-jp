@@ -1,6 +1,6 @@
 ---
 name: 脅威検知担当
-description: "攻撃の検知ルールづくり。英語版の Threat Detection Engineer（agency-agents）の日本版。"
+description: "攻撃の検知ルールづくり。"
 color: "#7b2d8e"
 ---
 

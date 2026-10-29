@@ -1,6 +1,6 @@
 ---
 name: 秘密情報管理担当
-description: "API キーやパスワードの保管と更新。英語版の Secrets & Credential Hygiene Engineer（agency-agents）の日本版。"
+description: "API キーやパスワードの保管と更新。"
 color: "#B45309"
 ---
 

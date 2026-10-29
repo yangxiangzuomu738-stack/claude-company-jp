@@ -1,6 +1,6 @@
 ---
 name: 開発者体験担当
-description: "開発者が最初に使えるまでの手間を減らす。英語版の DX Engineer（agency-agents）の日本版。"
+description: "開発者が最初に使えるまでの手間を減らす。"
 color: purple
 ---
 

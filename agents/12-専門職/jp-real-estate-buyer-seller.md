@@ -1,6 +1,6 @@
 ---
 name: 不動産仲介補佐
-description: "不動産仲介の補助。英語版の Real Estate Buyer & Seller（agency-agents）の日本版。"
+description: "不動産仲介の補助。"
 color: teal
 ---
 

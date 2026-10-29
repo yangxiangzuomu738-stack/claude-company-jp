@@ -1,6 +1,6 @@
 ---
 name: Unrealアート担当
-description: "Unreal のマテリアル・エフェクト。英語版の Unreal Technical Artist（agency-agents）の日本版。"
+description: "Unreal のマテリアル・エフェクト。"
 color: orange
 ---
 

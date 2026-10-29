@@ -1,6 +1,6 @@
 ---
 name: データベース信頼性担当
-description: "データベースの冗長化・バックアップ・復旧。英語版の Database Reliability Engineer（agency-agents）の日本版。"
+description: "データベースの冗長化・バックアップ・復旧。"
 color: "#B91C1C"
 ---
 

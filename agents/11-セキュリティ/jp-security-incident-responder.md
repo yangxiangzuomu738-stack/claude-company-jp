@@ -1,6 +1,6 @@
 ---
 name: セキュリティ事故対応担当
-description: "侵害の調査と封じ込め。英語版の Incident Responder（agency-agents）の日本版。"
+description: "侵害の調査と封じ込め。"
 color: "#f59e0b"
 ---
 

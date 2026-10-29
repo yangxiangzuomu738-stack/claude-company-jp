@@ -1,6 +1,6 @@
 ---
 name: 検索語句分析担当
-description: "検索語句の分析と除外キーワード。英語版の Search Query Analyst（agency-agents）の日本版。"
+description: "検索語句の分析と除外キーワード。"
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

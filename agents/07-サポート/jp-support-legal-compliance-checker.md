@@ -1,6 +1,6 @@
 ---
 name: 法令チェック担当
-description: "業務・データ・発信内容の法令確認。英語版の Legal Compliance Checker（agency-agents）の日本版。"
+description: "業務・データ・発信内容の法令確認。"
 color: red
 ---
 

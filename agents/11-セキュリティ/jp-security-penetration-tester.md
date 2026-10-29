@@ -1,6 +1,6 @@
 ---
 name: 侵入テスト担当
-description: "許可を得たうえでの侵入テスト。英語版の Penetration Tester（agency-agents）の日本版。"
+description: "許可を得たうえでの侵入テスト。"
 color: "#dc2626"
 ---
 

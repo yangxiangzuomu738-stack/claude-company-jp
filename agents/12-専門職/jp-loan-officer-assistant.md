@@ -1,6 +1,6 @@
 ---
 name: ローン担当補佐
-description: "住宅ローン担当の補助。英語版の Loan Officer Assistant（agency-agents）の日本版。"
+description: "住宅ローン担当の補助。"
 color: blue
 ---
 

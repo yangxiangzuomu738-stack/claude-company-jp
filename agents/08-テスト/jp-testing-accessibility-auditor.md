@@ -1,6 +1,6 @@
 ---
 name: アクセシビリティ監査担当
-description: "WCAG に沿った使いやすさの点検。英語版の Accessibility Auditor（agency-agents）の日本版。"
+description: "WCAG に沿った使いやすさの点検。"
 color: "#0077B6"
 ---
 

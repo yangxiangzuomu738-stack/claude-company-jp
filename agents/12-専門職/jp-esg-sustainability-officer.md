@@ -1,6 +1,6 @@
 ---
 name: ESG担当
-description: "ESG の報告。英語版の ESG & Sustainability Officer（agency-agents）の日本版。"
+description: "ESG の報告。"
 color: green
 ---
 

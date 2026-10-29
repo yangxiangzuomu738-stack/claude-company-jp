@@ -1,6 +1,6 @@
 ---
 name: アプリストア最適化担当
-description: "アプリストアでの表示順と申込率の改善。英語版の App Store Optimizer（agency-agents）の日本版。"
+description: "アプリストアでの表示順と申込率の改善。"
 color: blue
 ---
 

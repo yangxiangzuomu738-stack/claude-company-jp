@@ -1,6 +1,6 @@
 ---
 name: 物語論の専門家
-description: "物語論（話の構成・人物の成長）。英語版の Narratologist（agency-agents）の日本版。"
+description: "物語論（話の構成・人物の成長）。"
 color: "#8B5CF6"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 医療政策提案担当
-description: "各国政府の医療施策への提案。英語版の Sovereign Health Systems Agent（agency-agents）の日本版。"
+description: "各国政府の医療施策への提案。"
 color:       "#1B4F72"
 ---
 

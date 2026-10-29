@@ -1,6 +1,6 @@
 ---
 name: 組織心理担当
-description: "チームの状態や燃え尽きの診断。英語版の Organizational Psychologist（agency-agents）の日本版。"
+description: "チームの状態や燃え尽きの診断。"
 color: teal
 ---
 

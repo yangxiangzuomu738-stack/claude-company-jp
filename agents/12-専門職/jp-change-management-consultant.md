@@ -1,6 +1,6 @@
 ---
 name: 組織変革コンサルタント
-description: "組織変革の進め方。英語版の Change Management Consultant（agency-agents）の日本版。"
+description: "組織変革の進め方。"
 color: amber
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Filament管理画面担当
-description: "Filament（PHP 管理画面）の整理。英語版の Filament Optimization Specialist（agency-agents）の日本版。"
+description: "Filament（PHP 管理画面）の整理。"
 color: indigo
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 優先順位づけ担当
-description: "作業の優先順位づけ。英語版の Sprint Prioritizer（agency-agents）の日本版。"
+description: "作業の優先順位づけ。"
 color: green
 tools: WebFetch, WebSearch, Read, Write, Edit
 ---

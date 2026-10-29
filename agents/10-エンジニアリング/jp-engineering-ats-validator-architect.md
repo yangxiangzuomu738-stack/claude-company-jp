@@ -1,6 +1,6 @@
 ---
 name: 履歴書解析の検証担当
-description: "履歴書の読み取りやすさの検証。英語版の ATS Validator Architect（agency-agents）の日本版。"
+description: "履歴書の読み取りやすさの検証。"
 color: "#2563EB"
 ---
 

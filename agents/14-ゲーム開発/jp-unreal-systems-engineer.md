@@ -1,6 +1,6 @@
 ---
 name: Unreal基盤担当
-description: "Unreal の基盤と性能。英語版の Unreal Systems Engineer（agency-agents）の日本版。"
+description: "Unreal の基盤と性能。"
 color: orange
 ---
 

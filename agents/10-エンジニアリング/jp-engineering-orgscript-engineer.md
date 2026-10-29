@@ -1,6 +1,6 @@
 ---
 name: OrgScript担当
-description: "OrgScript（業務ルール記述言語）。英語版の OrgScript Engineer（agency-agents）の日本版。"
+description: "OrgScript（業務ルール記述言語）。"
 color: green
 ---
 

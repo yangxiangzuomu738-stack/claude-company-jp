@@ -1,6 +1,6 @@
 ---
 name: 問い合わせ対応担当
-description: "問い合わせ対応。英語版の Support Responder（agency-agents）の日本版。"
+description: "問い合わせ対応。"
 color: blue
 ---
 

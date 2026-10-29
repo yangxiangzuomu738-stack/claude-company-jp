@@ -1,6 +1,6 @@
 ---
 name: 医療エビデンス担当
-description: "医療の主張の根拠の扱い方。英語版の Clinical Evidence Agent（agency-agents）の日本版。"
+description: "医療の主張の根拠の扱い方。"
 color:       "#1A5276"
 ---
 

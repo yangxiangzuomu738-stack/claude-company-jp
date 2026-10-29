@@ -1,6 +1,6 @@
 ---
 name: 多様性に配慮した画像担当
-description: "偏りのない人物・場面の画像。英語版の Inclusive Visuals Specialist（agency-agents）の日本版。"
+description: "偏りのない人物・場面の画像。"
 color: "#4DB6AC"
 ---
 

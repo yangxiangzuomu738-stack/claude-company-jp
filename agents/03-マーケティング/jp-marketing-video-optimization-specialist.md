@@ -1,6 +1,6 @@
 ---
 name: YouTube最適化担当
-description: "YouTube の視聴維持・サムネイル・章立て。英語版の Video Optimization Specialist（agency-agents）の日本版。"
+description: "YouTube の視聴維持・サムネイル・章立て。"
 color: red
 ---
 

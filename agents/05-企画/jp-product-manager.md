@@ -1,6 +1,6 @@
 ---
 name: プロダクトマネージャー
-description: "製品の企画から公開までを統括。英語版の Product Manager（agency-agents）の日本版。"
+description: "製品の企画から公開までを統括。"
 color: blue
 tools: WebFetch, WebSearch, Read, Write, Edit
 ---

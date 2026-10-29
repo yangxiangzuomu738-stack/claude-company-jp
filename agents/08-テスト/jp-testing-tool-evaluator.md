@@ -1,6 +1,6 @@
 ---
 name: ツール評価担当
-description: "ツールやサービスの比較評価。英語版の Tool Evaluator（agency-agents）の日本版。"
+description: "ツールやサービスの比較評価。"
 color: teal
 ---
 

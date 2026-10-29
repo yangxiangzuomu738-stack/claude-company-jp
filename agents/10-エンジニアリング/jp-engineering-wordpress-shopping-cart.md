@@ -1,6 +1,6 @@
 ---
 name: WooCommerce担当
-description: "WooCommerce の EC サイト。英語版の WordPress Shopping Cart Engineer（agency-agents）の日本版。"
+description: "WooCommerce の EC サイト。"
 color: purple
 ---
 

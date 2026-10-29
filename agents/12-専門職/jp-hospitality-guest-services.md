@@ -1,6 +1,6 @@
 ---
 name: 接客担当
-description: "ホテルや飲食店の接客。英語版の Hospitality Guest Services（agency-agents）の日本版。"
+description: "ホテルや飲食店の接客。"
 color: teal
 ---
 

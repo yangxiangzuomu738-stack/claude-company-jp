@@ -1,6 +1,6 @@
 ---
 name: SEO担当
-description: "検索上位を狙うサイト改善。英語版の SEO Specialist（agency-agents）の日本版。"
+description: "検索上位を狙うサイト改善。"
 tools: WebFetch, WebSearch, Read, Write, Edit
 color: "#4285F4"
 ---

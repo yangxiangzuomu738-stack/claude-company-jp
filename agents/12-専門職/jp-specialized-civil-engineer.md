@@ -1,6 +1,6 @@
 ---
 name: 土木・構造エンジニア
-description: "土木・構造設計。英語版の Civil Engineer（agency-agents）の日本版。"
+description: "土木・構造設計。"
 color: yellow
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: テスト結果分析担当
-description: "テスト結果の分析。英語版の Test Results Analyzer（agency-agents）の日本版。"
+description: "テスト結果の分析。"
 color: indigo
 ---
 

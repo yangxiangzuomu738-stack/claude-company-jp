@@ -1,6 +1,6 @@
 ---
 name: M&A統合担当
-description: "買収後の統合。英語版の M&A Integration Manager（agency-agents）の日本版。"
+description: "買収後の統合。"
 color: indigo
 ---
 

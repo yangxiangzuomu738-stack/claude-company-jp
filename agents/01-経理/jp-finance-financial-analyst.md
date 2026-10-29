@@ -1,6 +1,6 @@
 ---
 name: 財務アナリスト
-description: "財務モデル・予測・シナリオ分析。英語版の Financial Analyst（agency-agents）の日本版。"
+description: "財務モデル・予測・シナリオ分析。"
 color: green
 ---
 

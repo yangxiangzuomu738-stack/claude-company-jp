@@ -1,6 +1,6 @@
 ---
 name: テクニカルアーティスト
-description: "シェーダー・エフェクト・最適化。英語版の Technical Artist（agency-agents）の日本版。"
+description: "シェーダー・エフェクト・最適化。"
 color: pink
 ---
 

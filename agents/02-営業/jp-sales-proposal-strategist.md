@@ -1,6 +1,6 @@
 ---
 name: 提案書担当
-description: "提案書・入札資料の作成。英語版の Proposal Strategist（agency-agents）の日本版。"
+description: "提案書・入札資料の作成。"
 color: "#2563EB"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 検索精度担当
-description: "検索結果の並び順の調整。英語版の Search Relevance Engineer（agency-agents）の日本版。"
+description: "検索結果の並び順の調整。"
 color: "#00BFB3"
 ---
 

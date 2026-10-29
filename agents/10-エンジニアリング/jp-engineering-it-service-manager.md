@@ -1,6 +1,6 @@
 ---
 name: ITサービス管理担当
-description: "ITIL に沿った社内 IT の運用。英語版の IT Service Manager（agency-agents）の日本版。"
+description: "ITIL に沿った社内 IT の運用。"
 color: blue
 ---
 

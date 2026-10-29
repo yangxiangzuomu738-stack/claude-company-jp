@@ -1,6 +1,6 @@
 ---
 name: 地理学者
-description: "地理学（地形・気候・集落の整合）。英語版の Geographer（agency-agents）の日本版。"
+description: "地理学（地形・気候・集落の整合）。"
 color: "#059669"
 ---
 

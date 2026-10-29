@@ -1,6 +1,6 @@
 ---
 name: プロジェクト進行担当
-description: "部門をまたぐ案件の進行と日程管理。英語版の Project Shepherd（agency-agents）の日本版。"
+description: "部門をまたぐ案件の進行と日程管理。"
 color: blue
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: GaussDB担当
-description: "Huawei GaussDB（中国向け）。英語版の GaussDB Expert Engineer（agency-agents）の日本版。"
+description: "Huawei GaussDB（中国向け）。"
 color: amber
 ---
 

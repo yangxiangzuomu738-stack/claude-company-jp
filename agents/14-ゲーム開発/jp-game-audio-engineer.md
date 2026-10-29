@@ -1,6 +1,6 @@
 ---
 name: ゲームサウンド担当
-description: "ゲームの音響。英語版の Game Audio Engineer（agency-agents）の日本版。"
+description: "ゲームの音響。"
 color: indigo
 ---
 

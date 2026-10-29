@@ -1,6 +1,6 @@
 ---
 name: 支払処理担当
-description: "支払いの自動実行（このスキルでは実行させない）。英語版の Accounts Payable Agent（agency-agents）の日本版。"
+description: "支払いの自動実行（このスキルでは実行させない）。"
 color: green
 ---
 

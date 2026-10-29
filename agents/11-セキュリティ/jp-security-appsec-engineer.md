@@ -1,6 +1,6 @@
 ---
 name: アプリセキュリティ担当
-description: "脅威の洗い出しと安全なコードの確認。英語版の Application Security Engineer（agency-agents）の日本版。"
+description: "脅威の洗い出しと安全なコードの確認。"
 color: "#059669"
 ---
 

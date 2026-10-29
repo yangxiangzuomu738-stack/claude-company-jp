@@ -1,6 +1,6 @@
 ---
 name: 同一人物判定担当
-description: "複数のエージェントが同じ人物を同一と扱えるようにする管理。英語版の Identity Graph Operator（agency-agents）の日本版。"
+description: "複数のエージェントが同じ人物を同一と扱えるようにする管理。"
 color: "#C5A572"
 ---
 

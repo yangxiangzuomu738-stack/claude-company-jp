@@ -1,6 +1,6 @@
 ---
 name: Blenderアドオン担当
-description: "Blender のアドオン・自動化。英語版の Blender Add-on Engineer（agency-agents）の日本版。"
+description: "Blender のアドオン・自動化。"
 color: blue
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: テクニカルライター
-description: "説明書・README・API 資料の作成。英語版の Technical Writer（agency-agents）の日本版。"
+description: "説明書・README・API 資料の作成。"
 color: teal
 ---
 

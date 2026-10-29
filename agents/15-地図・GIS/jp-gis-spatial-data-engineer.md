@@ -1,6 +1,6 @@
 ---
 name: 地理データ整形担当
-description: "地理データの変換と整形。英語版の Spatial Data Engineer（agency-agents）の日本版。"
+description: "地理データの変換と整形。"
 color: orange
 ---
 

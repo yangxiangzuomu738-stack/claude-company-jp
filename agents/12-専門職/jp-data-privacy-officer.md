@@ -1,6 +1,6 @@
 ---
 name: 個人情報保護責任者
-description: "個人情報保護の体制づくり（GDPR など）。英語版の Data Privacy Officer（agency-agents）の日本版。"
+description: "個人情報保護の体制づくり（GDPR など）。"
 color: purple
 ---
 

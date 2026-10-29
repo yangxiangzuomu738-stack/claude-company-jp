@@ -1,6 +1,6 @@
 ---
 name: 売上指標抽出担当
-description: "Excel から売上の指標を抜き出す。英語版の Sales Data Extraction Agent（agency-agents）の日本版。"
+description: "Excel から売上の指標を抜き出す。"
 color: "#2b6cb0"
 ---
 

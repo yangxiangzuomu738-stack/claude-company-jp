@@ -1,6 +1,6 @@
 ---
 name: デスクトップアプリ開発担当
-description: "デスクトップアプリ（Electron・Tauri）。英語版の Desktop App Engineer（agency-agents）の日本版。"
+description: "デスクトップアプリ（Electron・Tauri）。"
 color: "#475569"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Web 3D表示担当
-description: "Web 上の 3D 地形・点群の表示。英語版の 3D & Scene Developer（agency-agents）の日本版。"
+description: "Web 上の 3D 地形・点群の表示。"
 color: cyan
 ---
 

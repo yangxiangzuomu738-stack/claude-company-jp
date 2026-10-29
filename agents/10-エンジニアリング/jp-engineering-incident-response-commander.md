@@ -1,6 +1,6 @@
 ---
 name: 障害対応指揮担当
-description: "本番障害の指揮と振り返り。英語版の Incident Response Commander（agency-agents）の日本版。"
+description: "本番障害の指揮と振り返り。"
 color: "#e63946"
 ---
 

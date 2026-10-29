@@ -1,6 +1,6 @@
 ---
 name: 行動デザイン担当
-description: "行動心理で使い続けてもらう工夫。英語版の Behavioral Nudge Engine（agency-agents）の日本版。"
+description: "行動心理で使い続けてもらう工夫。"
 color: "#FF8A65"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: クラウドセキュリティ担当
-description: "クラウドのゼロトラスト設計。英語版の Cloud Security Architect（agency-agents）の日本版。"
+description: "クラウドのゼロトラスト設計。"
 color: "#3b82f6"
 ---
 

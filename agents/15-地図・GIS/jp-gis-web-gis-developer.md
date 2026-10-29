@@ -1,6 +1,6 @@
 ---
 name: Web地図開発担当
-description: "Web 地図アプリ（MapLibre・Leaflet など）。英語版の Web GIS Developer（agency-agents）の日本版。"
+description: "Web 地図アプリ（MapLibre・Leaflet など）。"
 color: blue
 ---
 

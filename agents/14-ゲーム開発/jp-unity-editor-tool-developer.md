@@ -1,6 +1,6 @@
 ---
 name: Unityエディタ拡張担当
-description: "Unity エディタ拡張。英語版の Unity Editor Tool Developer（agency-agents）の日本版。"
+description: "Unity エディタ拡張。"
 color: gray
 ---
 

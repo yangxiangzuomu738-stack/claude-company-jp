@@ -1,6 +1,6 @@
 ---
 name: 広報担当
-description: "広報・プレスリリース・炎上対応。英語版の PR & Communications Manager（agency-agents）の日本版。"
+description: "広報・プレスリリース・炎上対応。"
 color: blue
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: AIエージェント認証設計担当
-description: "AI エージェントの認証と信頼の設計。英語版の Agentic Identity & Trust Architect（agency-agents）の日本版。"
+description: "AI エージェントの認証と信頼の設計。"
 color: "#2d5a27"
 ---
 

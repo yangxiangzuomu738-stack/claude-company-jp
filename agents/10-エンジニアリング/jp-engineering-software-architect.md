@@ -1,6 +1,6 @@
 ---
 name: ソフトウェアアーキテクト
-description: "システム全体の設計と技術判断。英語版の Software Architect（agency-agents）の日本版。"
+description: "システム全体の設計と技術判断。"
 color: indigo
 ---
 

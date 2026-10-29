@@ -1,6 +1,6 @@
 ---
 name: Jira運用担当
-description: "Jira と Git を結びつけた作業管理。英語版の Jira Workflow Steward（agency-agents）の日本版。"
+description: "Jira と Git を結びつけた作業管理。"
 color: orange
 ---
 

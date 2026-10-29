@@ -1,6 +1,6 @@
 ---
 name: 性能測定担当
-description: "速度の計測と改善。英語版の Performance Benchmarker（agency-agents）の日本版。"
+description: "速度の計測と改善。"
 color: orange
 ---
 

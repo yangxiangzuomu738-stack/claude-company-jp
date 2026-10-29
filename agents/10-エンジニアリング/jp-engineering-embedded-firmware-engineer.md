@@ -1,6 +1,6 @@
 ---
 name: 組込みファームウェア担当
-description: "マイコンのファームウェア（ESP32・STM32 など）。英語版の Embedded Firmware Engineer（agency-agents）の日本版。"
+description: "マイコンのファームウェア（ESP32・STM32 など）。"
 color: orange
 ---
 

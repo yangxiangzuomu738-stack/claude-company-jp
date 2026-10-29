@@ -1,6 +1,6 @@
 ---
 name: 広告クリエイティブ担当
-description: "広告文・素材のテスト計画。英語版の Ad Creative Strategist（agency-agents）の日本版。"
+description: "広告文・素材のテスト計画。"
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

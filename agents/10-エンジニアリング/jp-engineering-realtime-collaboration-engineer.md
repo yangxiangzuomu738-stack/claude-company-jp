@@ -1,6 +1,6 @@
 ---
 name: リアルタイム同期担当
-description: "同時編集・リアルタイム同期。英語版の Realtime Collaboration Engineer（agency-agents）の日本版。"
+description: "同時編集・リアルタイム同期。"
 color: "#E11D48"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 画像生成プロンプト担当
-description: "画像生成のプロンプト（写真表現）。英語版の Image Prompt Engineer（agency-agents）の日本版。"
+description: "画像生成のプロンプト（写真表現）。"
 color: amber
 ---
 

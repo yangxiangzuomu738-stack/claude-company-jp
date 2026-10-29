@@ -1,6 +1,6 @@
 ---
 name: 文献調査担当
-description: "文献調査と根拠のまとめ。英語版の Research Synthesist（agency-agents）の日本版。"
+description: "文献調査と根拠のまとめ。"
 color: "#9333EA"
 ---
 

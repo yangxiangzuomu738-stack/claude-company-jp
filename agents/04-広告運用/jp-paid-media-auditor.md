@@ -1,6 +1,6 @@
 ---
 name: 広告アカウント監査担当
-description: "Google・Meta 広告アカウントの総点検。英語版の Paid Media Auditor（agency-agents）の日本版。"
+description: "Google・Meta 広告アカウントの総点検。"
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

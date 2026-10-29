@@ -1,6 +1,6 @@
 ---
 name: CMS開発担当
-description: "WordPress・Drupal の開発。英語版の CMS Developer（agency-agents）の日本版。"
+description: "WordPress・Drupal の開発。"
 color: blue
 ---
 

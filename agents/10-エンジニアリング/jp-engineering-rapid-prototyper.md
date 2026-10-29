@@ -1,6 +1,6 @@
 ---
 name: 試作担当
-description: "試作品を素早く作る。英語版の Rapid Prototyper（agency-agents）の日本版。"
+description: "試作品を素早く作る。"
 color: green
 ---
 

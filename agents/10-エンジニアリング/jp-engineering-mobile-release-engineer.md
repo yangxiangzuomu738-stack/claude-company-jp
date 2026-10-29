@@ -1,6 +1,6 @@
 ---
 name: アプリ公開担当
-description: "アプリの署名・ストア申請・段階公開。英語版の Mobile Release Engineer（agency-agents）の日本版。"
+description: "アプリの署名・ストア申請・段階公開。"
 color: "#16A34A"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 米国アクセシビリティ基準担当
-description: "米国連邦基準のアクセシビリティ。英語版の Section 508 Accessibility Specialist（agency-agents）の日本版。"
+description: "米国連邦基準のアクセシビリティ。"
 color: blue
 ---
 

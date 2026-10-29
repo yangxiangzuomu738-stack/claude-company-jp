@@ -1,6 +1,6 @@
 ---
 name: コード解析基盤担当
-description: "コード解析の基盤。英語版の LSP/Index Engineer（agency-agents）の日本版。"
+description: "コード解析の基盤。"
 color: orange
 ---
 

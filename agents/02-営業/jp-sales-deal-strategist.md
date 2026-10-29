@@ -1,6 +1,6 @@
 ---
 name: 商談戦略担当
-description: "商談の見込み判定と勝ち筋づくり。英語版の Deal Strategist（agency-agents）の日本版。"
+description: "商談の見込み判定と勝ち筋づくり。"
 color: "#1B4D3E"
 ---
 

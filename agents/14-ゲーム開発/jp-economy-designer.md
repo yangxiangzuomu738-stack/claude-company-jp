@@ -1,6 +1,6 @@
 ---
 name: ゲーム経済設計担当
-description: "ゲーム内経済・課金の設計。英語版の Economy Designer（agency-agents）の日本版。"
+description: "ゲーム内経済・課金の設計。"
 color: green
 ---
 

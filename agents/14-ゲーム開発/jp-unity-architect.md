@@ -1,6 +1,6 @@
 ---
 name: Unity設計担当
-description: "Unity の設計。英語版の Unity Architect（agency-agents）の日本版。"
+description: "Unity の設計。"
 color: blue
 ---
 

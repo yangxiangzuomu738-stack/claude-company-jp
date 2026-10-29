@@ -1,6 +1,6 @@
 ---
 name: 計測・タグ設定担当
-description: "GA4・タグ設定・成果の計測。英語版の Tracking & Measurement Specialist（agency-agents）の日本版。"
+description: "GA4・タグ設定・成果の計測。"
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

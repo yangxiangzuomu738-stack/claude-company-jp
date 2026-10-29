@@ -1,6 +1,6 @@
 ---
 name: XRコックピット操作担当
-description: "XR のコックピット型操作。英語版の XR Cockpit Interaction Specialist（agency-agents）の日本版。"
+description: "XR のコックピット型操作。"
 color: orange
 ---
 

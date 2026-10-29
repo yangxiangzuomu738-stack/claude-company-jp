@@ -1,6 +1,6 @@
 ---
 name: MCP開発担当
-description: "MCP サーバーの開発。英語版の MCP Builder（agency-agents）の日本版。"
+description: "MCP サーバーの開発。"
 color: indigo
 ---
 

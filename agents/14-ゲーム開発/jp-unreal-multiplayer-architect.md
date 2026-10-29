@@ -1,6 +1,6 @@
 ---
 name: Unreal通信対戦担当
-description: "Unreal の通信対戦。英語版の Unreal Multiplayer Architect（agency-agents）の日本版。"
+description: "Unreal の通信対戦。"
 color: red
 ---
 

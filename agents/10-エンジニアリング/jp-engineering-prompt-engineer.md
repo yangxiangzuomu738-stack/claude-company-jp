@@ -1,6 +1,6 @@
 ---
 name: プロンプト設計担当
-description: "AI への指示文の設計と改善。英語版の Prompt Engineer（agency-agents）の日本版。"
+description: "AI への指示文の設計と改善。"
 color: violet
 ---
 

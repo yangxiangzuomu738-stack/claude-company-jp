@@ -17,6 +17,7 @@ import sys
 REPO = pathlib.Path(__file__).resolve().parent.parent
 TOOLS = REPO / "tools"
 OUT = REPO / "agents"
+VERSION = "1.0.0"
 ROSTER = REPO / "skills" / "claude-company-jp" / "references" / "担当者一覧.md"
 
 # 元の部門 -> 日本版のフォルダ
@@ -121,7 +122,7 @@ def main():
                 if en not in names or en not in roles:
                     missing.append(en)
                     continue
-                jp, desc = names[en], f"{roles[en]}。英語版の {en}（agency-agents）の日本版。"
+                jp, desc = names[en], f"{roles[en]}。"
                 lines = ["---", f"name: {jp}", f"description: {yaml_str(desc)}", *kept_lines(fm), "---", "", ""]
                 target.write_text("\n".join(lines) + HEADER.format(jp=jp, en=en) + body, encoding="utf-8")
                 kind = ""
@@ -136,7 +137,25 @@ def main():
         sys.exit("tools/japan に使われていないファイル: " + ", ".join(sorted(unused)))
 
     write_roster(rows)
+    write_plugin(rows)
     print(f"担当者 {len(rows)}人（日本向けに書き直し {len(japan)}人）")
+
+
+def write_plugin(rows):
+    plugin = {
+        "name": "claude-company-jp",
+        "version": VERSION,
+        "description": "Claude Code を会社として動かす日本版。日本語で働く担当者283人と、仕事を振り分けるスキル。",
+        "author": {"name": "yangxiangzuomu738-stack"},
+        "repository": "https://github.com/yangxiangzuomu738-stack/claude-company-jp",
+        "license": "MIT",
+        "keywords": ["subagents", "japanese", "company"],
+        "skills": ["./skills"],
+        "agents": ["./" + r[5] for r in sorted(rows, key=lambda r: r[5])],
+    }
+    path = REPO / ".claude-plugin" / "plugin.json"
+    path.parent.mkdir(exist_ok=True)
+    path.write_text(json.dumps(plugin, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def write_roster(rows):

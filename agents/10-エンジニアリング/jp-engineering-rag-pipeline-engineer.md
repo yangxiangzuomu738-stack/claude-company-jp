@@ -1,6 +1,6 @@
 ---
 name: RAG構築担当
-description: "資料検索つき AI（RAG）の検索精度。英語版の RAG Pipeline Engineer（agency-agents）の日本版。"
+description: "資料検索つき AI（RAG）の検索精度。"
 color: "#F97316"
 ---
 

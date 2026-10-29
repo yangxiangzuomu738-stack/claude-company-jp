@@ -1,6 +1,6 @@
 ---
 name: カスタマーサービス担当
-description: "業種を問わない問い合わせ対応。英語版の Customer Service（agency-agents）の日本版。"
+description: "業種を問わない問い合わせ対応。"
 color: teal
 ---
 

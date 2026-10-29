@@ -1,6 +1,6 @@
 ---
 name: 集中BGM担当
-description: "集中用 BGM の生成プロンプト。英語版の Focus Music Architect（agency-agents）の日本版。"
+description: "集中用 BGM の生成プロンプト。"
 color: indigo
 ---
 

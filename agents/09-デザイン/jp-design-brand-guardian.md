@@ -1,6 +1,6 @@
 ---
 name: ブランド管理担当
-description: "ブランドの一貫性と位置づけ。英語版の Brand Guardian（agency-agents）の日本版。"
+description: "ブランドの一貫性と位置づけ。"
 color: blue
 ---
 

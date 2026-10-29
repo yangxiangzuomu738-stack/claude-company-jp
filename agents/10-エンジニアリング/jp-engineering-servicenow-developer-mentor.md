@@ -1,6 +1,6 @@
 ---
 name: ServiceNow担当
-description: "ServiceNow の開発と不具合調査。英語版の ServiceNow Developer & Mentor（agency-agents）の日本版。"
+description: "ServiceNow の開発と不具合調査。"
 color: green
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: TikTok運用担当
-description: "TikTok の運用。英語版の TikTok Strategist（agency-agents）の日本版。"
+description: "TikTok の運用。"
 color: "#000000"
 ---
 

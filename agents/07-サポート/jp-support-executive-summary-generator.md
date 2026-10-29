@@ -1,6 +1,6 @@
 ---
 name: 経営向け要約担当
-description: "資料をコンサル風の要約にする。英語版の Executive Summary Generator（agency-agents）の日本版。"
+description: "資料をコンサル風の要約にする。"
 color: purple
 ---
 

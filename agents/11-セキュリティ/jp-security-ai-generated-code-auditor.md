@@ -1,6 +1,6 @@
 ---
 name: AI生成コード安全監査担当
-description: "AI が書いたコードの秘密情報の漏れや権限の穴を点検。英語版の AI-Generated Code Security Auditor（agency-agents）の日本版。"
+description: "AI が書いたコードの秘密情報の漏れや権限の穴を点検。"
 color: "#4F46E5"
 ---
 

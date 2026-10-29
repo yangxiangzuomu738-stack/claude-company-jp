@@ -1,6 +1,6 @@
 ---
 name: Unrealワールド制作担当
-description: "Unreal のオープンワールド制作。英語版の Unreal World Builder（agency-agents）の日本版。"
+description: "Unreal のオープンワールド制作。"
 color: green
 ---
 

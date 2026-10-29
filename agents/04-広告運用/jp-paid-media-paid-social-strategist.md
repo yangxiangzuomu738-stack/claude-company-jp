@@ -1,6 +1,6 @@
 ---
 name: SNS広告担当
-description: "Meta・TikTok などの SNS 広告。英語版の Paid Social Strategist（agency-agents）の日本版。"
+description: "Meta・TikTok などの SNS 広告。"
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

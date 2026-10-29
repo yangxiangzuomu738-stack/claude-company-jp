@@ -1,6 +1,6 @@
 ---
 name: Git運用担当
-description: "Git の運用・ブランチ設計・履歴整理。英語版の Git Workflow Master（agency-agents）の日本版。"
+description: "Git の運用・ブランチ設計・履歴整理。"
 color: orange
 ---
 

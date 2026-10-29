@@ -1,6 +1,6 @@
 ---
 name: 分析レポート担当
-description: "数字を集計して報告書にまとめる。英語版の Analytics Reporter（agency-agents）の日本版。"
+description: "数字を集計して報告書にまとめる。"
 color: teal
 ---
 

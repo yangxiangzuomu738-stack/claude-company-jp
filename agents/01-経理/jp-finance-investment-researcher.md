@@ -1,6 +1,6 @@
 ---
 name: 投資リサーチ担当
-description: "市場調査・投資先の調査。英語版の Investment Researcher（agency-agents）の日本版。"
+description: "市場調査・投資先の調査。"
 color: green
 ---
 

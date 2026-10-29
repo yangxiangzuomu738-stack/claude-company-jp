@@ -1,6 +1,6 @@
 ---
 name: ヒアリング設計担当
-description: "初回ヒアリングの質問設計。英語版の Discovery Coach（agency-agents）の日本版。"
+description: "初回ヒアリングの質問設計。"
 color: "#5C7CFA"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 実験管理担当
-description: "実験の設計と結果の記録。英語版の Experiment Tracker（agency-agents）の日本版。"
+description: "実験の設計と結果の記録。"
 color: purple
 ---
 

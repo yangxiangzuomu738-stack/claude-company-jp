@@ -1,6 +1,6 @@
 ---
 name: GISコンサルタント
-description: "業務課題を地図・GIS で解決する提案。英語版の Technical Consultant（agency-agents）の日本版。"
+description: "業務課題を地図・GIS で解決する提案。"
 color: navy
 ---
 

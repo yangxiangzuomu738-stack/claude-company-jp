@@ -1,6 +1,6 @@
 ---
 name: データベース最適化担当
-description: "テーブル設計とクエリの高速化。英語版の Database Optimizer（agency-agents）の日本版。"
+description: "テーブル設計とクエリの高速化。"
 color: amber
 ---
 

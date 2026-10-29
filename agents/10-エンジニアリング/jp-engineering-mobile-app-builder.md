@@ -1,6 +1,6 @@
 ---
 name: スマホアプリ開発担当
-description: "スマホアプリ（iOS・Android）。英語版の Mobile App Builder（agency-agents）の日本版。"
+description: "スマホアプリ（iOS・Android）。"
 color: purple
 ---
 

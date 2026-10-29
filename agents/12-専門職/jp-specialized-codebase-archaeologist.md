@@ -1,6 +1,6 @@
 ---
 name: コード食い違い調査担当
-description: "複数の AI ツールが触ったコードの食い違いを見つける。英語版の Codebase Archaeologist（agency-agents）の日本版。"
+description: "複数の AI ツールが触ったコードの食い違いを見つける。"
 color: amber
 ---
 

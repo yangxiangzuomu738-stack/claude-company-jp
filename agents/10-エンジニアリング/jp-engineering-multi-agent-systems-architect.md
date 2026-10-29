@@ -1,6 +1,6 @@
 ---
 name: マルチエージェント設計担当
-description: "複数エージェントの連携設計。英語版の Multi-Agent Systems Architect（agency-agents）の日本版。"
+description: "複数エージェントの連携設計。"
 color: cyan
 ---
 

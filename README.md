@@ -9,15 +9,45 @@ Claude Code を「会社」として動かすためのスキルと、日本語�
 - 送信・投稿・支払いなど外に出る操作は、あなたの許可なしには行いません。
 - 元になったのは [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)（MIT ライセンス）です。中国市場向けの22人は、日本の媒体・制度向けに書き直しました。
 
-## 必要なもの
+## 入れ方（Claude Code の中で2行）
 
-- [Claude Code](https://claude.com/claude-code)
-- Python 3.8 以上
-- Git
+Claude Code の入力欄に、次の2行を1行ずつ打ちます。
 
-## 入れ方
+```text
+/plugin marketplace add yangxiangzuomu738-stack/claude-company-jp
+```
 
-ターミナルで次の3行を実行します。
+```text
+/plugin install claude-company-jp@claude-company-jp
+```
+
+入れ終わると、そのセッションのまますぐ使えます。「Run /reload-plugins to apply.」と表示されたときは、続けて `/reload-plugins` と打ちます。Claude Code を開き直す必要はありません。
+
+ターミナルから入れる場合は次の2行です。この場合は、次に Claude Code を開いたときから使えます。
+
+```bash
+claude plugin marketplace add yangxiangzuomu738-stack/claude-company-jp
+```
+
+```bash
+claude plugin install claude-company-jp@claude-company-jp
+```
+
+プラグインで入れると、担当者の名前の前に `claude-company-jp:` が付きます（例: `claude-company-jp:経理・記帳担当`）。頼むときは付けなくてもかまいません。
+
+### 更新・外し方（プラグイン）
+
+```text
+/plugin marketplace update claude-company-jp
+```
+
+```text
+/plugin uninstall claude-company-jp@claude-company-jp
+```
+
+## 別の入れ方（ファイルをコピーする）
+
+プラグインを使わずに `~/.claude` へ直接コピーしたいときの方法です。担当者の名前の前に何も付きません。Python 3.8 以上と Git が必要です。
 
 ```bash
 git clone https://github.com/yangxiangzuomu738-stack/claude-company-jp.git
@@ -27,16 +57,12 @@ python install.py
 
 Windows で `python` が見つからないときは `py install.py` を使います。
 
-入れたら Claude Code を開き直してください。新しいセッションから使えます。
-
-入る場所:
-
 | 入るもの | 場所 |
 |---|---|
 | スキル `claude-company-jp` | `~/.claude/skills/claude-company-jp/` |
 | 担当者283人 | `~/.claude/agents/jp-*.md` |
 
-同じ名前のファイルが既にあるときは上書きしません。上書きしたいときは `python install.py --force` を使います。
+同じ名前のファイルが既にあるときは上書きしません。上書きしたいときは `python install.py --force`、外すときは `python install.py --uninstall` を使います。
 
 ## 使い方
 
@@ -124,26 +150,13 @@ Claude Code にふつうに頼むだけです。「会社で」「〇〇担当�
 - freee への登録は必ず私が確認してから
 ```
 
-## 更新・外し方
-
-```bash
-cd claude-company-jp
-git pull
-python install.py --force
-```
-
-外すときは次を実行します。このスクリプトで入れた担当者とスキルだけを消します。
-
-```bash
-python install.py --uninstall
-```
-
 ## フォルダの中身
 
 ```text
 claude-company-jp/
 ├── README.md                      この説明
-├── install.py                     入れる・外すスクリプト
+├── .claude-plugin/                プラグインとマーケットプレイスの設定
+├── install.py                     ファイルをコピーして入れる・外すスクリプト
 ├── LICENSE                        MIT ライセンス
 ├── skills/claude-company-jp/
 │   ├── SKILL.md                   社長室長の手順（振り分け・依頼文・会社の決まり）

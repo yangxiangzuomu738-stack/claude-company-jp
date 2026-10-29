@@ -1,6 +1,6 @@
 ---
 name: 議事録担当
-description: "議事録から決定事項と宿題を抜き出す。英語版の Meeting Notes Specialist（agency-agents）の日本版。"
+description: "議事録から決定事項と宿題を抜き出す。"
 tools: Read, Write, Edit
 color: blue
 ---

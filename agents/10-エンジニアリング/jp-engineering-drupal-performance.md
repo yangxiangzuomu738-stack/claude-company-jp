@@ -1,6 +1,6 @@
 ---
 name: Drupal高速化担当
-description: "Drupal の高速化。英語版の Drupal Performance Engineer（agency-agents）の日本版。"
+description: "Drupal の高速化。"
 color: blue
 ---
 

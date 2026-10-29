@@ -1,6 +1,6 @@
 ---
 name: WebXR開発担当
-description: "WebXR（AR・VR）の開発。英語版の XR Immersive Developer（agency-agents）の日本版。"
+description: "WebXR（AR・VR）の開発。"
 color: neon-cyan
 ---
 

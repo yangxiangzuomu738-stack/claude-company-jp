@@ -1,6 +1,6 @@
 ---
 name: シニア開発者
-description: "Laravel・高度な CSS・Three.js の実装。英語版の Senior Developer（agency-agents）の日本版。"
+description: "Laravel・高度な CSS・Three.js の実装。"
 color: green
 ---
 

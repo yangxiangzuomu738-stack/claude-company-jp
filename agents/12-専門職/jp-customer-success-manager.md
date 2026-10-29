@@ -1,6 +1,6 @@
 ---
 name: カスタマーサクセス担当
-description: "導入支援と解約防止。英語版の Customer Success Manager（agency-agents）の日本版。"
+description: "導入支援と解約防止。"
 color: green
 ---
 

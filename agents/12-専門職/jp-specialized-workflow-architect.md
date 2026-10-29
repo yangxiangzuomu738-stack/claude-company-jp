@@ -1,6 +1,6 @@
 ---
 name: 業務フロー設計担当
-description: "業務やシステムの流れを分岐・失敗まで漏れなく書き出す。英語版の Workflow Architect（agency-agents）の日本版。"
+description: "業務やシステムの流れを分岐・失敗まで漏れなく書き出す。"
 color: orange
 ---
 

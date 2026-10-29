@@ -1,6 +1,6 @@
 ---
 name: UIデザイナー
-description: "画面・部品・デザインシステム。英語版の UI Designer（agency-agents）の日本版。"
+description: "画面・部品・デザインシステム。"
 color: purple
 ---
 

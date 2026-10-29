@@ -1,6 +1,6 @@
 ---
 name: IoT機器管理担当
-description: "多数の IoT 機器の登録・遠隔更新。英語版の IoT Fleet Engineer（agency-agents）の日本版。"
+description: "多数の IoT 機器の登録・遠隔更新。"
 color: "#0284C7"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: ディスプレイ広告担当
-description: "ディスプレイ広告の買い付け。英語版の Programmatic & Display Buyer（agency-agents）の日本版。"
+description: "ディスプレイ広告の買い付け。"
 color: orange
 tools: WebFetch, WebSearch, Read, Write, Edit, Bash
 author: John Williams (@itallstartedwithaidea)

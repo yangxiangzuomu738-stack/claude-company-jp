@@ -1,6 +1,6 @@
 ---
 name: 音声文字起こしエンジニア
-description: "音声の文字起こしの仕組み。英語版の Voice AI Integration Engineer（agency-agents）の日本版。"
+description: "音声の文字起こしの仕組み。"
 color: violet
 ---
 

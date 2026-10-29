@@ -1,6 +1,6 @@
 ---
 name: 証拠つき品質確認担当
-description: "画面の証拠つきで不具合を報告。英語版の Evidence Collector（agency-agents）の日本版。"
+description: "画面の証拠つきで不具合を報告。"
 color: orange
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 新規開拓担当
-description: "狙う顧客の定義と新規開拓の手順。英語版の Outbound Strategist（agency-agents）の日本版。"
+description: "狙う顧客の定義と新規開拓の手順。"
 color: "#E8590C"
 ---
 

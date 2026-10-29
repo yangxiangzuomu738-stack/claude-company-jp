@@ -1,6 +1,6 @@
 ---
 name: 戦略対決担当
-description: "ゲーム理論と兵法三十六計で戦略を競わせる。英語版の Strategy Duel Agent（agency-agents）の日本版。"
+description: "ゲーム理論と兵法三十六計で戦略を競わせる。"
 color: "#1e90ff"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: ビジュアル表現担当
-description: "図解・ビジュアルでの伝え方。英語版の Visual Storyteller（agency-agents）の日本版。"
+description: "図解・ビジュアルでの伝え方。"
 color: purple
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 自己成長メンター
-description: "目標設定と習慣づくり。英語版の Personal Growth Mentor（agency-agents）の日本版。"
+description: "目標設定と習慣づくり。"
 color: teal
 ---
 

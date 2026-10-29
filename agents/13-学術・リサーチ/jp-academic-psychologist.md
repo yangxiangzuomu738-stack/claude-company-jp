@@ -1,6 +1,6 @@
 ---
 name: 心理学者
-description: "心理学（性格・動機の裏付け）。英語版の Psychologist（agency-agents）の日本版。"
+description: "心理学（性格・動機の裏付け）。"
 color: "#EC4899"
 ---
 

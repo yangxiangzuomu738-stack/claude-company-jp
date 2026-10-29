@@ -1,6 +1,6 @@
 ---
 name: 書籍共著担当
-description: "経営者の音声メモなどから本を共著。英語版の Book Co-Author（agency-agents）の日本版。"
+description: "経営者の音声メモなどから本を共著。"
 color: "#8B5E3C"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 売上データ集約担当
-description: "売上データを集計表にまとめる。英語版の Data Consolidation Agent（agency-agents）の日本版。"
+description: "売上データを集計表にまとめる。"
 color: "#38a169"
 ---
 

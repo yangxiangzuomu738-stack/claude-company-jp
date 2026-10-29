@@ -1,6 +1,6 @@
 ---
 name: 文書ファイル生成担当
-description: "PDF・PPTX・DOCX・XLSX をコードで作る。英語版の Document Generator（agency-agents）の日本版。"
+description: "PDF・PPTX・DOCX・XLSX をコードで作る。"
 color: blue
 ---
 

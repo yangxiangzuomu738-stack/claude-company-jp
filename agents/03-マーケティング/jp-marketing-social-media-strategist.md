@@ -1,6 +1,6 @@
 ---
 name: SNS戦略担当
-description: "複数 SNS の運用計画。英語版の Social Media Strategist（agency-agents）の日本版。"
+description: "複数 SNS の運用計画。"
 tools: WebFetch, WebSearch, Read, Write, Edit
 color: blue
 ---

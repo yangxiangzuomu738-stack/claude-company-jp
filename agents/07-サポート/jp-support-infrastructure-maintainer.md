@@ -1,6 +1,6 @@
 ---
 name: インフラ保守担当
-description: "サーバーなどの安定運用。英語版の Infrastructure Maintainer（agency-agents）の日本版。"
+description: "サーバーなどの安定運用。"
 color: orange
 ---
 

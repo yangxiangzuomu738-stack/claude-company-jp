@@ -1,6 +1,6 @@
 ---
 name: 決済・課金エンジニア
-description: "Stripe などの決済と月額課金。英語版の Payments & Billing Engineer（agency-agents）の日本版。"
+description: "Stripe などの決済と月額課金。"
 color: "#2E7D32"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 地理AI担当
-description: "衛星・航空写真の機械学習。英語版の GeoAI/ML Engineer（agency-agents）の日本版。"
+description: "衛星・航空写真の機械学習。"
 color: green
 ---
 

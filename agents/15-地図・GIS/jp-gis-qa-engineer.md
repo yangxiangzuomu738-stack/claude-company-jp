@@ -1,6 +1,6 @@
 ---
 name: 地理データ品質担当
-description: "地理データの品質確認。英語版の GIS QA Engineer（agency-agents）の日本版。"
+description: "地理データの品質確認。"
 color: purple
 ---
 

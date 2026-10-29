@@ -1,6 +1,6 @@
 ---
 name: Unity通信対戦担当
-description: "Unity の通信対戦。英語版の Unity Multiplayer Engineer（agency-agents）の日本版。"
+description: "Unity の通信対戦。"
 color: blue
 ---
 

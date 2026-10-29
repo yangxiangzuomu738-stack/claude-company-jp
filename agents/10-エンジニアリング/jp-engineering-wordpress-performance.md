@@ -1,6 +1,6 @@
 ---
 name: WordPress高速化担当
-description: "WordPress の高速化。英語版の WordPress Performance Engineer（agency-agents）の日本版。"
+description: "WordPress の高速化。"
 color: purple
 ---
 

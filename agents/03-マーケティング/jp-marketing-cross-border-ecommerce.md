@@ -1,6 +1,6 @@
 ---
 name: 越境EC担当
-description: "Amazon・Shopee などの越境 EC。英語版の Cross-Border E-Commerce Specialist（agency-agents）の日本版。"
+description: "Amazon・Shopee などの越境 EC。"
 color: blue
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 開発ツール担当
-description: "コマンドラインツールと開発環境。英語版の Developer Tooling Engineer（agency-agents）の日本版。"
+description: "コマンドラインツールと開発環境。"
 color: "#4F46E5"
 ---
 

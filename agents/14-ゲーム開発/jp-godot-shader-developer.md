@@ -1,6 +1,6 @@
 ---
 name: Godotシェーダー担当
-description: "Godot のシェーダー。英語版の Godot Shader Developer（agency-agents）の日本版。"
+description: "Godot のシェーダー。"
 color: purple
 ---
 

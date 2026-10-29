@@ -1,6 +1,6 @@
 ---
 name: UXリサーチャー
-description: "使いやすさの調査とテスト。英語版の UX Researcher（agency-agents）の日本版。"
+description: "使いやすさの調査とテスト。"
 color: green
 ---
 

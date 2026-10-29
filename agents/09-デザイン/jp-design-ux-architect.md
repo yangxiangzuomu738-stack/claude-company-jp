@@ -1,6 +1,6 @@
 ---
 name: UXアーキテクト
-description: "CSS の土台と実装の方針。英語版の UX Architect（agency-agents）の日本版。"
+description: "CSS の土台と実装の方針。"
 color: purple
 ---
 

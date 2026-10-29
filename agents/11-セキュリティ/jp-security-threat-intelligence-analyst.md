@@ -1,6 +1,6 @@
 ---
 name: 脅威情報分析担当
-description: "攻撃者グループの動向分析。英語版の Threat Intelligence Analyst（agency-agents）の日本版。"
+description: "攻撃者グループの動向分析。"
 color: "#7c3aed"
 ---
 

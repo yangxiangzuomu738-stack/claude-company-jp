@@ -1,6 +1,6 @@
 ---
 name: クラウド費用管理担当
-description: "クラウド費用の配分と削減。英語版の FinOps Engineer（agency-agents）の日本版。"
+description: "クラウド費用の配分と削減。"
 color: "#0891B2"
 ---
 

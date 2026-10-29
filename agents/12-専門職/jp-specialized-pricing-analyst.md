@@ -1,6 +1,6 @@
 ---
 name: 価格設定担当
-description: "価格設定。英語版の Pricing Analyst（agency-agents）の日本版。"
+description: "価格設定。"
 color: gold
 tools: WebFetch, WebSearch, Read, Write, Edit
 ---

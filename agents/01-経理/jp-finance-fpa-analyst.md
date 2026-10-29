@@ -1,6 +1,6 @@
 ---
 name: 予算・予実管理担当
-description: "予算づくりと予実差異の分析。英語版の FP&A Analyst（agency-agents）の日本版。"
+description: "予算づくりと予実差異の分析。"
 color: green
 ---
 

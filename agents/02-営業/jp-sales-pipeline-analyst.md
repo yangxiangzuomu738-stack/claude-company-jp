@@ -1,6 +1,6 @@
 ---
 name: 商談パイプライン分析担当
-description: "商談の進み具合と売上予測。英語版の Pipeline Analyst（agency-agents）の日本版。"
+description: "商談の進み具合と売上予測。"
 color: "#059669"
 ---
 

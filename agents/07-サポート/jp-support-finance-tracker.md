@@ -1,6 +1,6 @@
 ---
 name: 予算管理担当
-description: "予算管理と業績の追跡。英語版の Finance Tracker（agency-agents）の日本版。"
+description: "予算管理と業績の追跡。"
 color: green
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: モデル品質監査担当
-description: "機械学習・統計モデルの監査。英語版の Model QA Specialist（agency-agents）の日本版。"
+description: "機械学習・統計モデルの監査。"
 color: "#B22222"
 ---
 

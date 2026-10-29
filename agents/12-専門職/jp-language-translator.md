@@ -1,6 +1,6 @@
 ---
 name: スペイン語通訳担当
-description: "スペイン語と英語の通訳。英語版の Language Translator（agency-agents）の日本版。"
+description: "スペイン語と英語の通訳。"
 color: teal
 ---
 

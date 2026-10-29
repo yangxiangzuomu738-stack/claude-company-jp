@@ -1,6 +1,6 @@
 ---
 name: スマートコントラクト開発担当
-description: "スマートコントラクト開発。英語版の Solidity Smart Contract Engineer（agency-agents）の日本版。"
+description: "スマートコントラクト開発。"
 color: orange
 ---
 

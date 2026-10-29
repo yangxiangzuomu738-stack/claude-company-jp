@@ -1,6 +1,6 @@
 ---
 name: 文書組版担当
-description: "構造化データから提案書などの文書を組版。英語版の Universal Document Compiler（agency-agents）の日本版。"
+description: "構造化データから提案書などの文書を組版。"
 color: "#3B82F6"
 ---
 

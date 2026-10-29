@@ -1,6 +1,6 @@
 ---
 name: 全体計画担当
-description: "大きな計画を立てて厳しく批評する（コードは書かない）。英語版の Master Plan Architect（agency-agents）の日本版。"
+description: "大きな計画を立てて厳しく批評する（コードは書かない）。"
 color: indigo
 ---
 

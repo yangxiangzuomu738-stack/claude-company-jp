@@ -1,6 +1,6 @@
 ---
 name: LLM追加学習担当
-description: "LLM の追加学習と公開判定。英語版の LLM Post-Training Engineer（agency-agents）の日本版。"
+description: "LLM の追加学習と公開判定。"
 color: "#0F766E"
 ---
 

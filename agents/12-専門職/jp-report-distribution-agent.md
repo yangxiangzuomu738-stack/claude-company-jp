@@ -1,6 +1,6 @@
 ---
 name: 報告書配信担当
-description: "売上報告の自動配信。英語版の Report Distribution Agent（agency-agents）の日本版。"
+description: "売上報告の自動配信。"
 color: "#d69e2e"
 ---
 

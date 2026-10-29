@@ -1,6 +1,6 @@
 ---
 name: レベルデザイナー
-description: "ステージ設計。英語版の Level Designer（agency-agents）の日本版。"
+description: "ステージ設計。"
 color: teal
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 統計の専門家
-description: "統計（研究設計・検定・偏りの見抜き）。英語版の Statistician（agency-agents）の日本版。"
+description: "統計（研究設計・検定・偏りの見抜き）。"
 color: "#8B5CF6"
 ---
 

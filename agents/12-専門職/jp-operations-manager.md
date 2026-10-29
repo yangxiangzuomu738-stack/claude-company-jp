@@ -1,6 +1,6 @@
 ---
 name: オペレーション管理担当
-description: "業務の流れの見える化と改善。英語版の Operations Manager（agency-agents）の日本版。"
+description: "業務の流れの見える化と改善。"
 color: slate
 ---
 

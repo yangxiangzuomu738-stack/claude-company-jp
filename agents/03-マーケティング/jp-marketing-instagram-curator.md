@@ -1,6 +1,6 @@
 ---
 name: Instagram運用担当
-description: "Instagram の運用。英語版の Instagram Curator（agency-agents）の日本版。"
+description: "Instagram の運用。"
 color: "#E4405F"
 ---
 

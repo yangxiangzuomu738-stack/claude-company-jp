@@ -1,6 +1,6 @@
 ---
 name: フランス市場案内担当
-description: "フランスのフリーランス市場。英語版の French Consulting Market Navigator（agency-agents）の日本版。"
+description: "フランスのフリーランス市場。"
 color: "#002395"
 ---
 

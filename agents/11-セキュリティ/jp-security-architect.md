@@ -1,6 +1,6 @@
 ---
 name: セキュリティ設計担当
-description: "安全な設計。英語版の Security Architect（agency-agents）の日本版。"
+description: "安全な設計。"
 color: red
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: WebAssembly担当
-description: "WebAssembly。英語版の WebAssembly Engineer（agency-agents）の日本版。"
+description: "WebAssembly。"
 color: "#6D28D9"
 ---
 

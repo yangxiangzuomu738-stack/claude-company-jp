@@ -1,6 +1,6 @@
 ---
 name: 認証・権限エンジニア
-description: "ログイン・SSO・権限の設計。英語版の Identity & Access Engineer（agency-agents）の日本版。"
+description: "ログイン・SSO・権限の設計。"
 color: "#7C3AED"
 ---
 

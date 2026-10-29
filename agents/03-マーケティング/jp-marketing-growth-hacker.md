@@ -1,6 +1,6 @@
 ---
 name: グロース担当
-description: "実験を回して利用者を増やす。英語版の Growth Hacker（agency-agents）の日本版。"
+description: "実験を回して利用者を増やす。"
 tools: WebFetch, WebSearch, Read, Write, Edit
 color: green
 ---

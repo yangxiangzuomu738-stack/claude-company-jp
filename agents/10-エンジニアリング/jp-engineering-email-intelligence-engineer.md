@@ -1,6 +1,6 @@
 ---
 name: メール解析エンジニア
-description: "メールのやり取りから構造化データを取り出す。英語版の Email Intelligence Engineer（agency-agents）の日本版。"
+description: "メールのやり取りから構造化データを取り出す。"
 color: indigo
 ---
 

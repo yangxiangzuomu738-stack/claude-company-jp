@@ -1,6 +1,6 @@
 ---
 name: 多言語対応エンジニア
-description: "多言語対応（翻訳しやすい作り・日付や通貨の書式）。英語版の Internationalization Engineer（agency-agents）の日本版。"
+description: "多言語対応（翻訳しやすい作り・日付や通貨の書式）。"
 color: "#0EA5E9"
 ---
 

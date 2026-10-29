@@ -1,6 +1,6 @@
 ---
 name: SRE（安定運用担当）
-description: "本番の安定運用・監視・目標値の管理。英語版の SRE (Site Reliability Engineer)（agency-agents）の日本版。"
+description: "本番の安定運用・監視・目標値の管理。"
 color: "#e63946"
 ---
 

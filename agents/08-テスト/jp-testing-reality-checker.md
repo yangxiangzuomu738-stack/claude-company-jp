@@ -1,6 +1,6 @@
 ---
 name: 最終品質判定担当
-description: "証拠が揃うまで合格にしない最終確認役。英語版の Reality Checker（agency-agents）の日本版。"
+description: "証拠が揃うまで合格にしない最終確認役。"
 color: red
 ---
 

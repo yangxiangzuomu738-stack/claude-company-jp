@@ -1,6 +1,6 @@
 ---
 name: 既存顧客拡大担当
-description: "契約後の取引拡大と定例レビュー。英語版の Account Strategist（agency-agents）の日本版。"
+description: "契約後の取引拡大と定例レビュー。"
 color: "#2E7D32"
 ---
 

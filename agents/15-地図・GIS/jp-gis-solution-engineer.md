@@ -1,6 +1,6 @@
 ---
 name: GIS試作担当
-description: "GIS の試作・デモ。英語版の Solution Engineer（agency-agents）の日本版。"
+description: "GIS の試作・デモ。"
 color: blue
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: GISアナリスト
-description: "地図作成と空間検索。英語版の GIS Analyst（agency-agents）の日本版。"
+description: "地図作成と空間検索。"
 color: teal
 ---
 

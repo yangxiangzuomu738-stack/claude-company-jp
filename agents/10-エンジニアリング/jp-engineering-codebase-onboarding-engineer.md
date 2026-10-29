@@ -1,6 +1,6 @@
 ---
 name: コード読解ガイド担当
-description: "知らないコードを読んで構造を説明。英語版の Codebase Onboarding Engineer（agency-agents）の日本版。"
+description: "知らないコードを読んで構造を説明。"
 color: teal
 ---
 

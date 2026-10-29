@@ -1,6 +1,6 @@
 ---
 name: 海外ポッドキャスト担当
-description: "ポッドキャストの企画と集客。英語版の Global Podcast Strategist（agency-agents）の日本版。"
+description: "ポッドキャストの企画と集客。"
 color: purple
 ---
 

@@ -1,0 +1,17 @@
+{
+  "name": "claude-company-jp",
+  "owner": {
+    "name": "yangxiangzuomu738-stack"
+  },
+  "metadata": {
+    "description": "Claude Code を会社として動かす日本版のプラグイン"
+  },
+  "plugins": [
+    {
+      "name": "claude-company-jp",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Claude Code を会社として動かす日本版。日本語で働く担当者283人と、仕事を振り分けるスキル。"
+    }
+  ]
+}

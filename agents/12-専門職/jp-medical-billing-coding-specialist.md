@@ -1,6 +1,6 @@
 ---
 name: 米国医療請求担当
-description: "米国の診療報酬請求。英語版の Medical Billing & Coding Specialist（agency-agents）の日本版。"
+description: "米国の診療報酬請求。"
 color: blue
 ---
 

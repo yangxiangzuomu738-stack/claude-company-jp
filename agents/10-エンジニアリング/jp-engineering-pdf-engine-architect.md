@@ -1,6 +1,6 @@
 ---
 name: PDF生成エンジン担当
-description: "HTML から PDF を正確に作る仕組み。英語版の PDF Engine Architect（agency-agents）の日本版。"
+description: "HTML から PDF を正確に作る仕組み。"
 color: "#DC2626"
 ---
 

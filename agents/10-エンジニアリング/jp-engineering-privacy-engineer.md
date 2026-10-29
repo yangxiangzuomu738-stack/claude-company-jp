@@ -1,6 +1,6 @@
 ---
 name: プライバシー実装担当
-description: "個人情報の洗い出し・最小化・削除をコードで実装。英語版の Privacy Engineer（agency-agents）の日本版。"
+description: "個人情報の洗い出し・最小化・削除をコードで実装。"
 color: "#7E22CE"
 ---
 

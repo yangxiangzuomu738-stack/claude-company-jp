@@ -1,6 +1,6 @@
 ---
 name: 韓国ビジネス案内担当
-description: "韓国の商習慣。英語版の Korean Business Navigator（agency-agents）の日本版。"
+description: "韓国の商習慣。"
 color: "#003478"
 ---
 

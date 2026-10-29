@@ -1,6 +1,6 @@
 ---
 name: Godot通信対戦担当
-description: "Godot の通信対戦。英語版の Godot Multiplayer Engineer（agency-agents）の日本版。"
+description: "Godot の通信対戦。"
 color: violet
 ---
 

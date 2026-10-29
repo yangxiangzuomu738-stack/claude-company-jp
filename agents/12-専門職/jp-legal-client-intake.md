@@ -1,6 +1,6 @@
 ---
 name: 法律相談受付担当
-description: "法律相談の受付。英語版の Legal Client Intake（agency-agents）の日本版。"
+description: "法律相談の受付。"
 color: blue
 ---
 

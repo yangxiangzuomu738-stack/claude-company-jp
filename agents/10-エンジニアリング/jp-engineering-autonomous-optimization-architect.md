@@ -1,6 +1,6 @@
 ---
 name: AI API費用最適化担当
-description: "AI API の費用と性能の自動最適化。英語版の Autonomous Optimization Architect（agency-agents）の日本版。"
+description: "AI API の費用と性能の自動最適化。"
 color: "#673AB7"
 ---
 

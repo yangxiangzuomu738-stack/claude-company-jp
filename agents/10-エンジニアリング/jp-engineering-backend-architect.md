@@ -1,6 +1,6 @@
 ---
 name: バックエンド設計担当
-description: "サーバー側の設計と API。英語版の Backend Architect（agency-agents）の日本版。"
+description: "サーバー側の設計と API。"
 color: blue
 ---
 

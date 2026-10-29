@@ -1,6 +1,6 @@
 ---
 name: メールマーケティング担当
-description: "メール配信の設計と自動化。英語版の Email Marketing Strategist（agency-agents）の日本版。"
+description: "メール配信の設計と自動化。"
 color: green
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: 開発基盤エンジニア
-description: "社内開発基盤（決まった作り方の整備）。英語版の Platform Engineer（agency-agents）の日本版。"
+description: "社内開発基盤（決まった作り方の整備）。"
 color: "#0EA5E9"
 ---
 

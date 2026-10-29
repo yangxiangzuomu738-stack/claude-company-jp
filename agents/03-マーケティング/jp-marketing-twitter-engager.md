@@ -1,6 +1,6 @@
 ---
 name: X運用担当
-description: "X での発信と交流。英語版の Twitter Engager（agency-agents）の日本版。"
+description: "X での発信と交流。"
 color: "#1DA1F2"
 ---
 

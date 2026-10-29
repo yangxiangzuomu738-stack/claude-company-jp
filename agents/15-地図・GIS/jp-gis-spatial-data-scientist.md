@@ -1,6 +1,6 @@
 ---
 name: 空間データ分析担当
-description: "地理データの統計分析。英語版の Spatial Data Scientist（agency-agents）の日本版。"
+description: "地理データの統計分析。"
 color: indigo
 ---
 

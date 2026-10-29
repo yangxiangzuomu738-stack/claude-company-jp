@@ -1,6 +1,6 @@
 ---
 name: 利用者目線の画面チェック担当
-description: "利用者の立場で画面を読み流して反応を記録。英語版の Persona Walkthrough Specialist（agency-agents）の日本版。"
+description: "利用者の立場で画面を読み流して反応を記録。"
 color: "#10B981"
 ---
 

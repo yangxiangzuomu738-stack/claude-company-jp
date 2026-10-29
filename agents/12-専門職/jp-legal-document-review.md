@@ -1,6 +1,6 @@
 ---
 name: 契約書チェック担当
-description: "契約書などの確認。英語版の Legal Document Review（agency-agents）の日本版。"
+description: "契約書などの確認。"
 color: blue
 ---
 

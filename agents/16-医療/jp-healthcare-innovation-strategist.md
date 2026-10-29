@@ -1,6 +1,6 @@
 ---
 name: 医療事業戦略担当
-description: "医療系スタートアップの事業の語り方。英語版の Healthcare Innovation Strategist（agency-agents）の日本版。"
+description: "医療系スタートアップの事業の語り方。"
 color:       "#1B4F72"
 ---
 

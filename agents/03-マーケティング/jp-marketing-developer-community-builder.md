@@ -1,6 +1,6 @@
 ---
 name: 開発者コミュニティ担当
-description: "開発者コミュニティの運営。英語版の Developer Community Builder（agency-agents）の日本版。"
+description: "開発者コミュニティの運営。"
 color: green
 ---
 

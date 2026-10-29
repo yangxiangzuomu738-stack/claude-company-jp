@@ -1,6 +1,6 @@
 ---
 name: 地図デザイン担当
-description: "見やすい地図のデザイン。英語版の Cartography Designer（agency-agents）の日本版。"
+description: "見やすい地図のデザイン。"
 color: pink
 ---
 

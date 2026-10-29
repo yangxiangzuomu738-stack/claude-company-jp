@@ -1,6 +1,6 @@
 ---
 name: 異文化配慮担当
-description: "文化の違いによる排除を防ぐ。英語版の Cultural Intelligence Strategist（agency-agents）の日本版。"
+description: "文化の違いによる排除を防ぐ。"
 color: "#FFA000"
 ---
 

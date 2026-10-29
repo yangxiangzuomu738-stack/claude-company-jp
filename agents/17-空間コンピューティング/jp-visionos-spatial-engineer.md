@@ -1,6 +1,6 @@
 ---
 name: visionOS開発担当
-description: "visionOS アプリ。英語版の visionOS Spatial Engineer（agency-agents）の日本版。"
+description: "visionOS アプリ。"
 color: indigo
 ---
 

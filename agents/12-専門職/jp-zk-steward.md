@@ -1,6 +1,6 @@
 ---
 name: 知識カード管理担当
-description: "カード式（ツェッテルカステン）の知識管理。英語版の ZK Steward（agency-agents）の日本版。"
+description: "カード式（ツェッテルカステン）の知識管理。"
 color: teal
 ---
 

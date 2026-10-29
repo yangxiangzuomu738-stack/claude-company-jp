@@ -1,6 +1,6 @@
 ---
 name: データ自動修復エンジニア
-description: "壊れたデータを自動で見つけて直す仕組み。英語版の AI Data Remediation Engineer（agency-agents）の日本版。"
+description: "壊れたデータを自動で見つけて直す仕組み。"
 color: green
 ---
 

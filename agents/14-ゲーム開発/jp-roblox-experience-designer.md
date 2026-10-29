@@ -1,6 +1,6 @@
 ---
 name: Roblox体験設計担当
-description: "Roblox の体験設計と課金。英語版の Roblox Experience Designer（agency-agents）の日本版。"
+description: "Roblox の体験設計と課金。"
 color: lime
 ---
 

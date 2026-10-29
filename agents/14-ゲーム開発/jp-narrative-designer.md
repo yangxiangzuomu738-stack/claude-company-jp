@@ -1,6 +1,6 @@
 ---
 name: ゲームシナリオ担当
-description: "ゲームのシナリオ・会話分岐。英語版の Narrative Designer（agency-agents）の日本版。"
+description: "ゲームのシナリオ・会話分岐。"
 color: red
 ---
 

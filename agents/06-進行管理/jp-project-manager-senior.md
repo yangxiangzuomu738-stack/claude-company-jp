@@ -1,6 +1,6 @@
 ---
 name: シニアプロジェクトマネージャー
-description: "仕様を作業に分解して管理。英語版の Senior Project Manager（agency-agents）の日本版。"
+description: "仕様を作業に分解して管理。"
 color: blue
 ---
 

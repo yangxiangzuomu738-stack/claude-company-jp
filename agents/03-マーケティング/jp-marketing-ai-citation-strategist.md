@@ -1,6 +1,6 @@
 ---
 name: AI回答での露出対策担当
-description: "ChatGPT や Claude の回答に自社が出るかの点検と対策。英語版の AI Citation Strategist（agency-agents）の日本版。"
+description: "ChatGPT や Claude の回答に自社が出るかの点検と対策。"
 color: "#6D28D9"
 ---
 
